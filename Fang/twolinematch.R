@@ -15,7 +15,7 @@ GOresponse <- read.table(file="GOresponse.txt",head=FALSE,
 twolineMatch <- function(array,key2value,filenm){
     upperKey <- toupper(key2value[,1])
     oneitemMatch <- function(item){
-        tmpindex <- which(upperKey==item)
+        tmpindex <- which(upperKey==toupper(item))
         if(length(tmpindex)<1){
             tmpdata <- data.frame(x1 <- item, x2 <- "NA")
         }else{
