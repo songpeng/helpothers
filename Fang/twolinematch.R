@@ -1,7 +1,7 @@
 # Match the every line in file A with every word in each line from file B.
 # Songpeng Zu
 # 2015-04-17
-
+# Note: this is a bad script cause it is too slow.
 #-- Load Data
 mouseGeneAnnote <- read.table(file="mouseGeneAnnotation.txt",header=FALSE,
                               sep="\t",colClasses="character",quote = "")
