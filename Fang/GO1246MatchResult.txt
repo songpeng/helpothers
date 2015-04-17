@@ -1,0 +1,1805 @@
+B1 h	NA
+Sepw1	GO:0008430~selenium binding
+Sub1	GO:0003712~transcription cofactor activity
+Sub1	GO:0008134~transcription factor binding
+Sub1	GO:0016563~transcription activator activity
+Sub1	GO:0003677~DNA binding
+Sub1	GO:0030528~transcription regulator activity
+Sub1	GO:0003713~transcription coactivator activity
+Gpx4	GO:0004601~peroxidase activity
+Gpx4	GO:0003729~mRNA binding
+Gpx4	GO:0042277~peptide binding
+Gpx4	GO:0000166~nucleotide binding
+Gpx4	GO:0016684~oxidoreductase activity, acting on peroxide as acceptor
+Gpx4	GO:0008430~selenium binding
+Gpx4	GO:0004602~glutathione peroxidase activity
+Gpx4	GO:0016209~antioxidant activity
+Gpx4	GO:0047066~phospholipid-hydroperoxide glutathione peroxidase activity
+Gpx4	GO:0043295~glutathione binding
+Gpx4	GO:0003723~RNA binding
+RP23-393F10.2	NA
+Gm20538,Ndufb8,Sec31b	NA
+Ndufb5	NA
+Atp6v1g2	GO:0043492~ATPase activity, coupled to movement of substances
+Atp6v1g2	GO:0022890~inorganic cation transmembrane transporter activity
+Atp6v1g2	GO:0015077~monovalent inorganic cation transmembrane transporter activity
+Atp6v1g2	GO:0015399~primary active transmembrane transporter activity
+Atp6v1g2	GO:0016887~ATPase activity
+Atp6v1g2	GO:0042626~ATPase activity, coupled to transmembrane movement of substances
+Atp6v1g2	GO:0015405~P-P-bond-hydrolysis-driven transmembrane transporter activity
+Atp6v1g2	GO:0042625~ATPase activity, coupled to transmembrane movement of ions
+Atp6v1g2	GO:0015078~hydrogen ion transmembrane transporter activity
+Atp6v1g2	GO:0016820~hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances
+Atp6v1g2	GO:0008553~hydrogen-exporting ATPase activity, phosphorylative mechanism
+Atp6v1g2	GO:0042623~ATPase activity, coupled
+Atp6v1g2	GO:0015662~ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism
+Mpc1	NA
+Fam109b,Smdt1	NA
+Snrpn	GO:0003723~RNA binding
+Timm17a	GO:0015450~P-P-bond-hydrolysis-driven protein transmembrane transporter activity
+Timm17a	GO:0015405~P-P-bond-hydrolysis-driven transmembrane transporter activity
+Timm17a	GO:0008565~protein transporter activity
+Timm17a	GO:0008320~protein transmembrane transporter activity
+Timm17a	GO:0015399~primary active transmembrane transporter activity
+Timm17a	GO:0022884~macromolecule transmembrane transporter activity
+Lsm4	GO:0003723~RNA binding
+Iscu	GO:0051540~metal cluster binding
+Iscu	GO:0051536~iron-sulfur cluster binding
+Iscu	GO:0043169~cation binding
+Iscu	GO:0043167~ion binding
+Iscu	GO:0046872~metal ion binding
+Iscu	GO:0046914~transition metal ion binding
+Iscu	GO:0005506~iron ion binding
+Ccdc85b	NA
+Ccdc124	NA
+Ndufa13	GO:0001882~nucleoside binding
+Ndufa13	GO:0000166~nucleotide binding
+Ndufa13	GO:0016655~oxidoreductase activity, acting on NADH or NADPH, quinone or similar compound as acceptor
+Ndufa13	GO:0050136~NADH dehydrogenase (quinone) activity
+Ndufa13	GO:0030554~adenyl nucleotide binding
+Ndufa13	GO:0032553~ribonucleotide binding
+Ndufa13	GO:0005524~ATP binding
+Ndufa13	GO:0003954~NADH dehydrogenase activity
+Ndufa13	GO:0032555~purine ribonucleotide binding
+Ndufa13	GO:0017076~purine nucleotide binding
+Ndufa13	GO:0001883~purine nucleoside binding
+Ndufa13	GO:0032559~adenyl ribonucleotide binding
+Ndufa13	GO:0008137~NADH dehydrogenase (ubiquinone) activity
+Ndufa13	GO:0016651~oxidoreductase activity, acting on NADH or NADPH
+2210016L21Rik	NA
+Hypk,Serf2	NA
+Rprml	NA
+Erh	NA
+Hist1h4d	GO:0003677~DNA binding
+Gm16286,Txnl4a	NA
+Tceb1	NA
+Ensa	GO:0016248~channel inhibitor activity
+Ensa	GO:0019870~potassium channel inhibitor activity
+Ensa	GO:0008200~ion channel inhibitor activity
+Ensa	GO:0015459~potassium channel regulator activity
+Ensa	GO:0016247~channel regulator activity
+Selk	GO:0008430~selenium binding
+Fkbp2	GO:0016859~cis-trans isomerase activity
+Fkbp2	GO:0003755~peptidyl-prolyl cis-trans isomerase activity
+Pkig	GO:0030291~protein serine/threonine kinase inhibitor activity
+Pkig	GO:0004857~enzyme inhibitor activity
+Pkig	GO:0004862~cAMP-dependent protein kinase inhibitor activity
+Pkig	GO:0019887~protein kinase regulator activity
+Pkig	GO:0019207~kinase regulator activity
+Pkig	GO:0019210~kinase inhibitor activity
+Pkig	GO:0004860~protein kinase inhibitor activity
+Selm	GO:0008430~selenium binding
+Gm20683,Rhbdl1,Rhot2,Stub1,Wdr90	NA
+Tmem160	NA
+Gm20431,Tmem189,Ube2v1	NA
+Dlx6os1	NA
+Lamtor2	NA
+Pfdn2	GO:0051082~unfolded protein binding
+Pdlim7	GO:0008270~zinc ion binding
+Pdlim7	GO:0043169~cation binding
+Pdlim7	GO:0046872~metal ion binding
+Pdlim7	GO:0046914~transition metal ion binding
+Pdlim7	GO:0043167~ion binding
+Cystm1	NA
+Sec11c	GO:0008236~serine-type peptidase activity
+Sec11c	GO:0070011~peptidase activity, acting on L-amino acid peptides
+Sec11c	GO:0017171~serine hydrolase activity
+Sec11c	GO:0008233~peptidase activity
+Atraid	NA
+Tax1bp1	GO:0046914~transition metal ion binding
+Tax1bp1	GO:0008270~zinc ion binding
+Tax1bp1	GO:0043169~cation binding
+Tax1bp1	GO:0043167~ion binding
+Tax1bp1	GO:0046872~metal ion binding
+Mrpl54	NA
+Kbtbd11	NA
+1500011B03Rik,2610524H06Rik,Gm20499	NA
+Dynlt3	GO:0003774~motor activity
+Ccdc55	NA
+Cbx5	GO:0003682~chromatin binding
+Cbx5	GO:0030528~transcription regulator activity
+Cbx5	GO:0070491~transcription repressor binding
+Cbx5	GO:0030674~protein binding, bridging
+Cbx5	GO:0016564~transcription repressor activity
+Anp32a	NA
+Ccdc12	NA
+Ccdc107	NA
+Ttc9b	NA
+Rbm39	GO:0003723~RNA binding
+Rbm39	GO:0003713~transcription coactivator activity
+Rbm39	GO:0008134~transcription factor binding
+Rbm39	GO:0016563~transcription activator activity
+Rbm39	GO:0003712~transcription cofactor activity
+Rbm39	GO:0000166~nucleotide binding
+Rbm39	GO:0030528~transcription regulator activity
+Hp1bp3	GO:0003677~DNA binding
+40800	NA
+Mrpl28	GO:0030528~transcription regulator activity
+Mrpl28	GO:0003700~transcription factor activity
+Mrpl28	GO:0003677~DNA binding
+Lrpap1	GO:0070325~lipoprotein receptor binding
+Lrpap1	GO:0005539~glycosaminoglycan binding
+Lrpap1	GO:0030246~carbohydrate binding
+Lrpap1	GO:0030247~polysaccharide binding
+Lrpap1	GO:0008201~heparin binding
+Lrpap1	GO:0050750~low-density lipoprotein receptor binding
+Lrpap1	GO:0001871~pattern binding
+Stoml2	NA
+Dohh	GO:0043169~cation binding
+Dohh	GO:0043167~ion binding
+Dohh	GO:0046872~metal ion binding
+Dohh	GO:0019135~deoxyhypusine monooxygenase activity
+Dohh	GO:0005506~iron ion binding
+Dohh	GO:0046914~transition metal ion binding
+Pnkd	GO:0046872~metal ion binding
+Pnkd	GO:0043167~ion binding
+Pnkd	GO:0046914~transition metal ion binding
+Pnkd	GO:0016790~thiolester hydrolase activity
+Pnkd	GO:0004416~hydroxyacylglutathione hydrolase activity
+Pnkd	GO:0008270~zinc ion binding
+Pnkd	GO:0043169~cation binding
+Ip6k2	GO:0004428~inositol or phosphatidylinositol kinase activity
+Ip6k2	GO:0005524~ATP binding
+Ip6k2	GO:0017076~purine nucleotide binding
+Ip6k2	GO:0001883~purine nucleoside binding
+Ip6k2	GO:0008440~inositol trisphosphate 3-kinase activity
+Ip6k2	GO:0030554~adenyl nucleotide binding
+Ip6k2	GO:0032559~adenyl ribonucleotide binding
+Ip6k2	GO:0000166~nucleotide binding
+Ip6k2	GO:0051766~inositol trisphosphate kinase activity
+Ip6k2	GO:0001882~nucleoside binding
+Ip6k2	GO:0032555~purine ribonucleotide binding
+Ip6k2	GO:0032553~ribonucleotide binding
+Pnmal2	NA
+Bax	GO:0042803~protein homodimerization activity
+Bax	GO:0070513~death domain binding
+Bax	GO:0046983~protein dimerization activity
+Bax	GO:0051400~BH domain binding
+Bax	GO:0046982~protein heterodimerization activity
+Bax	GO:0051434~BH3 domain binding
+Bax	GO:0019904~protein domain specific binding
+Bax	GO:0042802~identical protein binding
+Ufm1	NA
+Arpp21	NA
+Rrp7a	GO:0003723~RNA binding
+Nipsnap1	NA
+Rasl10a	GO:0032553~ribonucleotide binding
+Rasl10a	GO:0032561~guanyl ribonucleotide binding
+Rasl10a	GO:0019001~guanyl nucleotide binding
+Rasl10a	GO:0000166~nucleotide binding
+Rasl10a	GO:0005525~GTP binding
+Rasl10a	GO:0032555~purine ribonucleotide binding
+Rasl10a	GO:0017076~purine nucleotide binding
+Nat14	GO:0016410~N-acyltransferase activity
+Nat14	GO:0003677~DNA binding
+Nat14	GO:0016407~acetyltransferase activity
+Nat14	GO:0008080~N-acetyltransferase activity
+Mrps26	NA
+Kif1a	GO:0030554~adenyl nucleotide binding
+Kif1a	GO:0005524~ATP binding
+Kif1a	GO:0001882~nucleoside binding
+Kif1a	GO:0000166~nucleotide binding
+Kif1a	GO:0001883~purine nucleoside binding
+Kif1a	GO:0032555~purine ribonucleotide binding
+Kif1a	GO:0003774~motor activity
+Kif1a	GO:0032559~adenyl ribonucleotide binding
+Kif1a	GO:0032553~ribonucleotide binding
+Kif1a	GO:0003777~microtubule motor activity
+Kif1a	GO:0017076~purine nucleotide binding
+Zfr	GO:0046872~metal ion binding
+Zfr	GO:0008270~zinc ion binding
+Zfr	GO:0043167~ion binding
+Zfr	GO:0003723~RNA binding
+Zfr	GO:0003677~DNA binding
+Zfr	GO:0046914~transition metal ion binding
+Zfr	GO:0043169~cation binding
+Ddx23	NA
+Gfra4	GO:0015026~coreceptor activity
+Thoc3	GO:0003723~RNA binding
+Timm22	GO:0008565~protein transporter activity
+Elovl1,Med8	NA
+Arl6ip4	NA
+Arhgdig,Pdia2	NA
+A430005L14Rik	NA
+Snx10	GO:0005543~phospholipid binding
+Snx10	GO:0035091~phosphoinositide binding
+Snx10	GO:0008289~lipid binding
+Dgcr6	NA
+Commd9	NA
+Ncl	GO:0043565~sequence-specific DNA binding
+Ncl	GO:0000166~nucleotide binding
+Ncl	GO:0003677~DNA binding
+Ncl	GO:0003723~RNA binding
+Ncl	GO:0042162~telomeric DNA binding
+Sirt3	GO:0043169~cation binding
+Sirt3	GO:0046872~metal ion binding
+Sirt3	GO:0051287~NAD or NADH binding
+Sirt3	GO:0070403~NAD binding
+Sirt3	GO:0000166~nucleotide binding
+Sirt3	GO:0048037~cofactor binding
+Sirt3	GO:0016811~hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+Sirt3	GO:0043167~ion binding
+Sirt3	GO:0008270~zinc ion binding
+Sirt3	GO:0046914~transition metal ion binding
+Sirt3	GO:0050662~coenzyme binding
+Fgfr1op2	NA
+Snrnp25	NA
+Gas7	GO:0008092~cytoskeletal protein binding
+Gas7	GO:0003779~actin binding
+Gas7	GO:0051015~actin filament binding
+Lsm10	GO:0003723~RNA binding
+Lsm10	GO:0017069~snRNA binding
+2700089E24Rik	NA
+H2afj	GO:0003677~DNA binding
+Arl16	GO:0019001~guanyl nucleotide binding
+Arl16	GO:0032561~guanyl ribonucleotide binding
+Arl16	GO:0017076~purine nucleotide binding
+Arl16	GO:0000166~nucleotide binding
+Arl16	GO:0032553~ribonucleotide binding
+Arl16	GO:0005525~GTP binding
+Arl16	GO:0032555~purine ribonucleotide binding
+Srrm3	NA
+Ttc33	NA
+Atp6v0a1	GO:0030528~transcription regulator activity
+Atp6v0a1	GO:0008134~transcription factor binding
+Atp6v0a1	GO:0003713~transcription coactivator activity
+Atp6v0a1	GO:0015078~hydrogen ion transmembrane transporter activity
+Atp6v0a1	GO:0035257~nuclear hormone receptor binding
+Atp6v0a1	GO:0022890~inorganic cation transmembrane transporter activity
+Atp6v0a1	GO:0003682~chromatin binding
+Atp6v0a1	GO:0051427~hormone receptor binding
+Atp6v0a1	GO:0015077~monovalent inorganic cation transmembrane transporter activity
+Atp6v0a1	GO:0016563~transcription activator activity
+Atp6v0a1	GO:0003712~transcription cofactor activity
+Atp6v0a1	GO:0046966~thyroid hormone receptor binding
+Ttc1	NA
+Fam213a	NA
+Ralgps2	GO:0060589~nucleoside-triphosphatase regulator activity
+Ralgps2	GO:0030695~GTPase regulator activity
+Ralgps2	GO:0005085~guanyl-nucleotide exchange factor activity
+Slc25a39	NA
+Sel1l	NA
+Ergic2	NA
+Fam163b	NA
+Fbxo9	NA
+Ramp1	GO:0015026~coreceptor activity
+Ramp1	GO:0008565~protein transporter activity
+Ssbp4	GO:0003677~DNA binding
+Ssbp4	GO:0043566~structure-specific DNA binding
+Ssbp4	GO:0030528~transcription regulator activity
+Ssbp4	GO:0003697~single-stranded DNA binding
+Parl	GO:0008233~peptidase activity
+Parl	GO:0008236~serine-type peptidase activity
+Parl	GO:0017171~serine hydrolase activity
+Parl	GO:0070011~peptidase activity, acting on L-amino acid peptides
+Scn2b	GO:0031420~alkali metal ion binding
+Scn2b	GO:0022836~gated channel activity
+Scn2b	GO:0043167~ion binding
+Scn2b	GO:0022832~voltage-gated channel activity
+Scn2b	GO:0005244~voltage-gated ion channel activity
+Scn2b	GO:0022838~substrate specific channel activity
+Scn2b	GO:0005261~cation channel activity
+Scn2b	GO:0005272~sodium channel activity
+Scn2b	GO:0046873~metal ion transmembrane transporter activity
+Scn2b	GO:0005216~ion channel activity
+Scn2b	GO:0005248~voltage-gated sodium channel activity
+Scn2b	GO:0022803~passive transmembrane transporter activity
+Scn2b	GO:0046872~metal ion binding
+Scn2b	GO:0031402~sodium ion binding
+Scn2b	GO:0015267~channel activity
+Scn2b	GO:0043169~cation binding
+Scn2b	GO:0022843~voltage-gated cation channel activity
+Bad	NA
+Ninj1	NA
+1700037H04Rik	NA
+Bpnt1	GO:0031420~alkali metal ion binding
+Bpnt1	GO:0004437~inositol or phosphatidylinositol phosphatase activity
+Bpnt1	GO:0008252~nucleotidase activity
+Bpnt1	GO:0046872~metal ion binding
+Bpnt1	GO:0008441~3'(2'),5'-bisphosphate nucleotidase activity
+Bpnt1	GO:0043169~cation binding
+Bpnt1	GO:0016791~phosphatase activity
+Bpnt1	GO:0043167~ion binding
+Bpnt1	GO:0031403~lithium ion binding
+Bpnt1	GO:0000287~magnesium ion binding
+Acin1	GO:0000166~nucleotide binding
+Flywch2	NA
+Ifngr2	NA
+Bloc1s4	NA
+Stau2	GO:0003725~double-stranded RNA binding
+Stau2	GO:0003723~RNA binding
+Pin1	GO:0016859~cis-trans isomerase activity
+Pin1	GO:0003755~peptidyl-prolyl cis-trans isomerase activity
+1810043G02Rik	NA
+Zmat5	GO:0046872~metal ion binding
+Zmat5	GO:0043169~cation binding
+Zmat5	GO:0008270~zinc ion binding
+Zmat5	GO:0046914~transition metal ion binding
+Zmat5	GO:0043167~ion binding
+Caprin1	NA
+Fam81a	NA
+Tmed10	NA
+Tssc4	NA
+Actr6	NA
+Uchl5	GO:0008233~peptidase activity
+Uchl5	GO:0070011~peptidase activity, acting on L-amino acid peptides
+Uchl5	GO:0004221~ubiquitin thiolesterase activity
+Uchl5	GO:0016790~thiolester hydrolase activity
+Uchl5	GO:0008234~cysteine-type peptidase activity
+A930005H10Rik	NA
+Crcp	GO:0034062~RNA polymerase activity
+Crcp	GO:0000166~nucleotide binding
+Crcp	GO:0003899~DNA-directed RNA polymerase activity
+Crcp	GO:0016779~nucleotidyltransferase activity
+Podxl2	NA
+Orc2	NA
+Gadd45g	NA
+Tfdp2	GO:0003700~transcription factor activity
+Tfdp2	GO:0030528~transcription regulator activity
+Tfdp2	GO:0003677~DNA binding
+Wdr75	NA
+Tpd52	GO:0046872~metal ion binding
+Tpd52	GO:0046982~protein heterodimerization activity
+Tpd52	GO:0043169~cation binding
+Tpd52	GO:0046983~protein dimerization activity
+Tpd52	GO:0042803~protein homodimerization activity
+Tpd52	GO:0042802~identical protein binding
+Tpd52	GO:0043167~ion binding
+Tpd52	GO:0005509~calcium ion binding
+Ak2	GO:0019201~nucleotide kinase activity
+Ak2	GO:0005524~ATP binding
+Ak2	GO:0019205~nucleobase, nucleoside, nucleotide kinase activity
+Ak2	GO:0016776~phosphotransferase activity, phosphate group as acceptor
+Ak2	GO:0000166~nucleotide binding
+Ak2	GO:0001883~purine nucleoside binding
+Ak2	GO:0030554~adenyl nucleotide binding
+Ak2	GO:0032553~ribonucleotide binding
+Ak2	GO:0004017~adenylate kinase activity
+Ak2	GO:0001882~nucleoside binding
+Ak2	GO:0032555~purine ribonucleotide binding
+Ak2	GO:0017076~purine nucleotide binding
+Ak2	GO:0032559~adenyl ribonucleotide binding
+Cdpf1	NA
+Gm6377,Sh3bgrl	NA
+Sac3d1	NA
+Pdrg1	GO:0051082~unfolded protein binding
+Serpina3k,Serpina3m,Serpina3n	NA
+Dusp28	GO:0008138~protein tyrosine/serine/threonine phosphatase activity
+Dusp28	GO:0004725~protein tyrosine phosphatase activity
+Dusp28	GO:0004721~phosphoprotein phosphatase activity
+Dusp28	GO:0016791~phosphatase activity
+Fyttd1	NA
+Stra13	GO:0003677~DNA binding
+Tor2a	GO:0030554~adenyl nucleotide binding
+Tor2a	GO:0005524~ATP binding
+Tor2a	GO:0001883~purine nucleoside binding
+Tor2a	GO:0017076~purine nucleotide binding
+Tor2a	GO:0005179~hormone activity
+Tor2a	GO:0032553~ribonucleotide binding
+Tor2a	GO:0032559~adenyl ribonucleotide binding
+Tor2a	GO:0032555~purine ribonucleotide binding
+Tor2a	GO:0000166~nucleotide binding
+Tor2a	GO:0001882~nucleoside binding
+Hist2h2ac	GO:0003677~DNA binding
+Nosip	GO:0016879~ligase activity, forming carbon-nitrogen bonds
+Nosip	GO:0004842~ubiquitin-protein ligase activity
+Nosip	GO:0016881~acid-amino acid ligase activity
+Nosip	GO:0019787~small conjugating protein ligase activity
+Zfp688	GO:0046914~transition metal ion binding
+Zfp688	GO:0008270~zinc ion binding
+Zfp688	GO:0043169~cation binding
+Zfp688	GO:0043167~ion binding
+Zfp688	GO:0046872~metal ion binding
+Safb2	GO:0000166~nucleotide binding
+Safb2	GO:0003677~DNA binding
+Safb2	GO:0003723~RNA binding
+Chmp6	NA
+Rrm2b	GO:0005506~iron ion binding
+Rrm2b	GO:0016725~oxidoreductase activity, acting on CH or CH2 groups
+Rrm2b	GO:0046872~metal ion binding
+Rrm2b	GO:0004748~ribonucleoside-diphosphate reductase activity
+Rrm2b	GO:0043169~cation binding
+Rrm2b	GO:0016728~oxidoreductase activity, acting on CH or CH2 groups, disulfide as acceptor
+Rrm2b	GO:0046914~transition metal ion binding
+Rrm2b	GO:0043167~ion binding
+Elmod1	NA
+Tnik	GO:0005524~ATP binding
+Tnik	GO:0030695~GTPase regulator activity
+Tnik	GO:0001883~purine nucleoside binding
+Tnik	GO:0004672~protein kinase activity
+Tnik	GO:0004674~protein serine/threonine kinase activity
+Tnik	GO:0001882~nucleoside binding
+Tnik	GO:0030554~adenyl nucleotide binding
+Tnik	GO:0017076~purine nucleotide binding
+Tnik	GO:0000166~nucleotide binding
+Tnik	GO:0005083~small GTPase regulator activity
+Tnik	GO:0032555~purine ribonucleotide binding
+Tnik	GO:0032559~adenyl ribonucleotide binding
+Tnik	GO:0060589~nucleoside-triphosphatase regulator activity
+Tnik	GO:0032553~ribonucleotide binding
+Cops2	GO:0003714~transcription corepressor activity
+Cops2	GO:0030528~transcription regulator activity
+Cops2	GO:0016564~transcription repressor activity
+Cops2	GO:0008134~transcription factor binding
+Cops2	GO:0003712~transcription cofactor activity
+Hes6	GO:0003677~DNA binding
+Hes6	GO:0003700~transcription factor activity
+Hes6	GO:0008134~transcription factor binding
+Hes6	GO:0003712~transcription cofactor activity
+Hes6	GO:0030528~transcription regulator activity
+Nudt16	GO:0003723~RNA binding
+Nudt16	GO:0043169~cation binding
+Nudt16	GO:0043167~ion binding
+Nudt16	GO:0046914~transition metal ion binding
+Nudt16	GO:0000287~magnesium ion binding
+Nudt16	GO:0030145~manganese ion binding
+Nudt16	GO:0046872~metal ion binding
+Dnajc17	GO:0051082~unfolded protein binding
+Dnajc17	GO:0003723~RNA binding
+Dnajc17	GO:0031072~heat shock protein binding
+Fam104a	NA
+Trappc6a	NA
+Gtpbp6	GO:0032561~guanyl ribonucleotide binding
+Gtpbp6	GO:0019001~guanyl nucleotide binding
+Gtpbp6	GO:0005525~GTP binding
+Gtpbp6	GO:0017076~purine nucleotide binding
+Gtpbp6	GO:0032555~purine ribonucleotide binding
+Gtpbp6	GO:0032553~ribonucleotide binding
+Gtpbp6	GO:0000166~nucleotide binding
+Eea1	GO:0035091~phosphoinositide binding
+Eea1	GO:0005543~phospholipid binding
+Eea1	GO:0008289~lipid binding
+Eea1	GO:0043167~ion binding
+Eea1	GO:0046914~transition metal ion binding
+Eea1	GO:0043169~cation binding
+Eea1	GO:0046872~metal ion binding
+Eea1	GO:0008270~zinc ion binding
+Eea1	GO:0005545~phosphatidylinositol binding
+Mpv17l	NA
+Brd8	NA
+Angptl6	NA
+Zfp667	GO:0046872~metal ion binding
+Zfp667	GO:0043167~ion binding
+Zfp667	GO:0043169~cation binding
+Zfp667	GO:0003677~DNA binding
+Zfp667	GO:0046914~transition metal ion binding
+Zfp667	GO:0008270~zinc ion binding
+A830018L16Rik	NA
+Zfp239	GO:0008270~zinc ion binding
+Zfp239	GO:0046872~metal ion binding
+Zfp239	GO:0046914~transition metal ion binding
+Zfp239	GO:0003677~DNA binding
+Zfp239	GO:0043167~ion binding
+Zfp239	GO:0043169~cation binding
+Csnk2a1	GO:0001883~purine nucleoside binding
+Csnk2a1	GO:0032553~ribonucleotide binding
+Csnk2a1	GO:0004674~protein serine/threonine kinase activity
+Csnk2a1	GO:0019208~phosphatase regulator activity
+Csnk2a1	GO:0005524~ATP binding
+Csnk2a1	GO:0032559~adenyl ribonucleotide binding
+Csnk2a1	GO:0008013~beta-catenin binding
+Csnk2a1	GO:0017076~purine nucleotide binding
+Csnk2a1	GO:0019888~protein phosphatase regulator activity
+Csnk2a1	GO:0004672~protein kinase activity
+Csnk2a1	GO:0001882~nucleoside binding
+Csnk2a1	GO:0032555~purine ribonucleotide binding
+Csnk2a1	GO:0000166~nucleotide binding
+Csnk2a1	GO:0030554~adenyl nucleotide binding
+Fscn1	GO:0051015~actin filament binding
+Fscn1	GO:0030674~protein binding, bridging
+Fscn1	GO:0008092~cytoskeletal protein binding
+Fscn1	GO:0003779~actin binding
+Dusp26	GO:0016791~phosphatase activity
+Dusp26	GO:0004725~protein tyrosine phosphatase activity
+Dusp26	GO:0008138~protein tyrosine/serine/threonine phosphatase activity
+Dusp26	GO:0004721~phosphoprotein phosphatase activity
+Atg14	NA
+Hist1h1e	GO:0003677~DNA binding
+Sncb	NA
+Gzf1	GO:0046872~metal ion binding
+Gzf1	GO:0043169~cation binding
+Gzf1	GO:0008270~zinc ion binding
+Gzf1	GO:0046914~transition metal ion binding
+Gzf1	GO:0043167~ion binding
+Oaz1-ps	NA
+40602	NA
+Gpcpd1	GO:0008081~phosphoric diester hydrolase activity
+Gpcpd1	GO:0030246~carbohydrate binding
+Gpcpd1	GO:0008889~glycerophosphodiester phosphodiesterase activity
+Nelfe	NA
+Golga7b	NA
+Tmem109	NA
+Cdc37l1	NA
+Ckap5	GO:0008017~microtubule binding
+Ckap5	GO:0008092~cytoskeletal protein binding
+Ckap5	GO:0043021~ribonucleoprotein binding
+Ckap5	GO:0015631~tubulin binding
+Cnot4	GO:0046914~transition metal ion binding
+Cnot4	GO:0043167~ion binding
+Cnot4	GO:0003723~RNA binding
+Cnot4	GO:0008270~zinc ion binding
+Cnot4	GO:0000166~nucleotide binding
+Cnot4	GO:0046872~metal ion binding
+Cnot4	GO:0043169~cation binding
+Rita1	NA
+Lyst	NA
+Msantd3	NA
+Thrsp	NA
+Trim37	GO:0043167~ion binding
+Trim37	GO:0008270~zinc ion binding
+Trim37	GO:0046914~transition metal ion binding
+Trim37	GO:0043169~cation binding
+Trim37	GO:0046872~metal ion binding
+Mturn	NA
+Pik3ip1	NA
+Luc7l	GO:0050733~RS domain binding
+Luc7l	GO:0043167~ion binding
+Luc7l	GO:0046914~transition metal ion binding
+Luc7l	GO:0019904~protein domain specific binding
+Luc7l	GO:0043169~cation binding
+Luc7l	GO:0046872~metal ion binding
+Luc7l	GO:0008270~zinc ion binding
+5730455P16Rik	NA
+Prpf40b	NA
+Prdm2	GO:0046872~metal ion binding
+Prdm2	GO:0003677~DNA binding
+Prdm2	GO:0043169~cation binding
+Prdm2	GO:0030528~transcription regulator activity
+Prdm2	GO:0008270~zinc ion binding
+Prdm2	GO:0046914~transition metal ion binding
+Prdm2	GO:0043167~ion binding
+Slc4a3	GO:0015301~anion:anion antiporter activity
+Slc4a3	GO:0015300~solute:solute antiporter activity
+Slc4a3	GO:0015297~antiporter activity
+Slc4a3	GO:0008509~anion transmembrane transporter activity
+Snrnp70	GO:0003723~RNA binding
+Snrnp70	GO:0000166~nucleotide binding
+Tiam1	GO:0030695~GTPase regulator activity
+Tiam1	GO:0046875~ephrin receptor binding
+Tiam1	GO:0008289~lipid binding
+Tiam1	GO:0005085~guanyl-nucleotide exchange factor activity
+Tiam1	GO:0060589~nucleoside-triphosphatase regulator activity
+Tiam1	GO:0005543~phospholipid binding
+Tiam1	GO:0005088~Ras guanyl-nucleotide exchange factor activity
+Tiam1	GO:0005083~small GTPase regulator activity
+Tiam1	GO:0005089~Rho guanyl-nucleotide exchange factor activity
+Cbx1	GO:0016564~transcription repressor activity
+Cbx1	GO:0030528~transcription regulator activity
+Cbx1	GO:0003682~chromatin binding
+Cbx1	GO:0042802~identical protein binding
+Appl1	NA
+Suv420h1	GO:0016278~lysine N-methyltransferase activity
+Suv420h1	GO:0008170~N-methyltransferase activity
+Suv420h1	GO:0018024~histone-lysine N-methyltransferase activity
+Suv420h1	GO:0042054~histone methyltransferase activity
+Suv420h1	GO:0008276~protein methyltransferase activity
+Suv420h1	GO:0016279~protein-lysine N-methyltransferase activity
+Suv420h1	GO:0042799~histone methyltransferase activity (H4-K20 specific)
+Gm9866	NA
+Cwc25	NA
+Ppp1r12b	NA
+Rad23b	GO:0003677~DNA binding
+Rad23b	GO:0003684~damaged DNA binding
+Zfp940	NA
+Sgtb	GO:0042803~protein homodimerization activity
+Sgtb	GO:0046982~protein heterodimerization activity
+Sgtb	GO:0042802~identical protein binding
+Sgtb	GO:0046983~protein dimerization activity
+Atad3a	GO:0001883~purine nucleoside binding
+Atad3a	GO:0000166~nucleotide binding
+Atad3a	GO:0001882~nucleoside binding
+Atad3a	GO:0030554~adenyl nucleotide binding
+Atad3a	GO:0017076~purine nucleotide binding
+Atad3a	GO:0032553~ribonucleotide binding
+Atad3a	GO:0005524~ATP binding
+Atad3a	GO:0032559~adenyl ribonucleotide binding
+Atad3a	GO:0032555~purine ribonucleotide binding
+Mdm4	GO:0046914~transition metal ion binding
+Mdm4	GO:0046872~metal ion binding
+Mdm4	GO:0043169~cation binding
+Mdm4	GO:0043167~ion binding
+Mdm4	GO:0008270~zinc ion binding
+Adam22	GO:0046872~metal ion binding
+Adam22	GO:0070011~peptidase activity, acting on L-amino acid peptides
+Adam22	GO:0043169~cation binding
+Adam22	GO:0043167~ion binding
+Adam22	GO:0008237~metallopeptidase activity
+Adam22	GO:0008270~zinc ion binding
+Adam22	GO:0046914~transition metal ion binding
+Adam22	GO:0004222~metalloendopeptidase activity
+Adam22	GO:0004175~endopeptidase activity
+Adam22	GO:0008233~peptidase activity
+4632415L05Rik	NA
+Aff4	NA
+Ppp1r8	GO:0008599~protein phosphatase type 1 regulator activity
+Ppp1r8	GO:0019208~phosphatase regulator activity
+Ppp1r8	GO:0003677~DNA binding
+Ppp1r8	GO:0004857~enzyme inhibitor activity
+Ppp1r8	GO:0019212~phosphatase inhibitor activity
+Ppp1r8	GO:0003723~RNA binding
+Ppp1r8	GO:0019888~protein phosphatase regulator activity
+Ppp1r8	GO:0004864~phosphoprotein phosphatase inhibitor activity
+Nr1h2	GO:0043565~sequence-specific DNA binding
+Nr1h2	GO:0008134~transcription factor binding
+Nr1h2	GO:0008270~zinc ion binding
+Nr1h2	GO:0003677~DNA binding
+Nr1h2	GO:0043167~ion binding
+Nr1h2	GO:0046914~transition metal ion binding
+Nr1h2	GO:0046872~metal ion binding
+Nr1h2	GO:0043169~cation binding
+Nr1h2	GO:0051427~hormone receptor binding
+Nr1h2	GO:0003700~transcription factor activity
+Nr1h2	GO:0035257~nuclear hormone receptor binding
+Nr1h2	GO:0003707~steroid hormone receptor activity
+Nr1h2	GO:0042974~retinoic acid receptor binding
+Nr1h2	GO:0004879~ligand-dependent nuclear receptor activity
+Nr1h2	GO:0030528~transcription regulator activity
+Nr1h2	GO:0046965~retinoid X receptor binding
+Rnf168	GO:0046914~transition metal ion binding
+Rnf168	GO:0042393~histone binding
+Rnf168	GO:0016879~ligase activity, forming carbon-nitrogen bonds
+Rnf168	GO:0043167~ion binding
+Rnf168	GO:0046872~metal ion binding
+Rnf168	GO:0032182~small conjugating protein binding
+Rnf168	GO:0003682~chromatin binding
+Rnf168	GO:0043130~ubiquitin binding
+Rnf168	GO:0043169~cation binding
+Rnf168	GO:0004842~ubiquitin-protein ligase activity
+Rnf168	GO:0019787~small conjugating protein ligase activity
+Rnf168	GO:0008270~zinc ion binding
+Rnf168	GO:0016881~acid-amino acid ligase activity
+Frat1	NA
+Fxn	NA
+Baalc	NA
+Ehmt1	GO:0046914~transition metal ion binding
+Ehmt1	GO:0016278~lysine N-methyltransferase activity
+Ehmt1	GO:0042054~histone methyltransferase activity
+Ehmt1	GO:0043169~cation binding
+Ehmt1	GO:0008170~N-methyltransferase activity
+Ehmt1	GO:0018024~histone-lysine N-methyltransferase activity
+Ehmt1	GO:0046872~metal ion binding
+Ehmt1	GO:0016279~protein-lysine N-methyltransferase activity
+Ehmt1	GO:0008270~zinc ion binding
+Ehmt1	GO:0008276~protein methyltransferase activity
+Ehmt1	GO:0043167~ion binding
+Wasf3	GO:0003779~actin binding
+Wasf3	GO:0008092~cytoskeletal protein binding
+2900076A07Rik,Mir1839	NA
+Dtd2	NA
+Gm22818	NA
+Rpgrip1l	NA
+Zfp131	GO:0003677~DNA binding
+Zfp131	GO:0043167~ion binding
+Zfp131	GO:0043169~cation binding
+Zfp131	GO:0046914~transition metal ion binding
+Zfp131	GO:0008270~zinc ion binding
+Zfp131	GO:0046872~metal ion binding
+Palm	GO:0031750~D3 dopamine receptor binding
+Palm	GO:0050780~dopamine receptor binding
+Ptpre	GO:0004721~phosphoprotein phosphatase activity
+Ptpre	GO:0016791~phosphatase activity
+Ptpre	GO:0042802~identical protein binding
+Ptpre	GO:0046983~protein dimerization activity
+Ptpre	GO:0004725~protein tyrosine phosphatase activity
+Ptpre	GO:0042803~protein homodimerization activity
+Trmt10b	NA
+Aip	GO:0008134~transcription factor binding
+Aip	GO:0003712~transcription cofactor activity
+Aip	GO:0051082~unfolded protein binding
+Aip	GO:0030528~transcription regulator activity
+Ddx42	GO:0016887~ATPase activity
+Ddx42	GO:0000166~nucleotide binding
+Ddx42	GO:0003723~RNA binding
+Ddx42	GO:0070035~purine NTP-dependent helicase activity
+Ddx42	GO:0001883~purine nucleoside binding
+Ddx42	GO:0032555~purine ribonucleotide binding
+Ddx42	GO:0004386~helicase activity
+Ddx42	GO:0042623~ATPase activity, coupled
+Ddx42	GO:0008026~ATP-dependent helicase activity
+Ddx42	GO:0017076~purine nucleotide binding
+Ddx42	GO:0001882~nucleoside binding
+Ddx42	GO:0032559~adenyl ribonucleotide binding
+Ddx42	GO:0030554~adenyl nucleotide binding
+Ddx42	GO:0032553~ribonucleotide binding
+Ddx42	GO:0005524~ATP binding
+Dnajb12	GO:0031072~heat shock protein binding
+Dnajb12	GO:0051082~unfolded protein binding
+Man1b1	GO:0005509~calcium ion binding
+Man1b1	GO:0043167~ion binding
+Man1b1	GO:0015923~mannosidase activity
+Man1b1	GO:0043169~cation binding
+Man1b1	GO:0004571~mannosyl-oligosaccharide 1,2-alpha-mannosidase activity
+Man1b1	GO:0046872~metal ion binding
+Man1b1	GO:0015924~mannosyl-oligosaccharide mannosidase activity
+Zfp37	GO:0003677~DNA binding
+Zfp37	GO:0043169~cation binding
+Zfp37	GO:0046872~metal ion binding
+Zfp37	GO:0008270~zinc ion binding
+Zfp37	GO:0043167~ion binding
+Zfp37	GO:0046914~transition metal ion binding
+Fam219a	NA
+Top1mt	GO:0003916~DNA topoisomerase activity
+Top1mt	GO:0032559~adenyl ribonucleotide binding
+Top1mt	GO:0030554~adenyl nucleotide binding
+Top1mt	GO:0001882~nucleoside binding
+Top1mt	GO:0003917~DNA topoisomerase type I activity
+Top1mt	GO:0032553~ribonucleotide binding
+Top1mt	GO:0003677~DNA binding
+Top1mt	GO:0005524~ATP binding
+Top1mt	GO:0017076~purine nucleotide binding
+Top1mt	GO:0003918~DNA topoisomerase (ATP-hydrolyzing) activity
+Top1mt	GO:0000166~nucleotide binding
+Top1mt	GO:0032555~purine ribonucleotide binding
+Top1mt	GO:0001883~purine nucleoside binding
+Magi2	NA
+2810408M09Rik	GO:0000166~nucleotide binding
+2810408M09Rik	GO:0017076~purine nucleotide binding
+2810408M09Rik	GO:0032559~adenyl ribonucleotide binding
+2810408M09Rik	GO:0030554~adenyl nucleotide binding
+2810408M09Rik	GO:0032553~ribonucleotide binding
+2810408M09Rik	GO:0004672~protein kinase activity
+2810408M09Rik	GO:0005524~ATP binding
+2810408M09Rik	GO:0001883~purine nucleoside binding
+2810408M09Rik	GO:0004713~protein tyrosine kinase activity
+2810408M09Rik	GO:0001882~nucleoside binding
+2810408M09Rik	GO:0032555~purine ribonucleotide binding
+Samd12	NA
+Ano3	GO:0005254~chloride channel activity
+Ano3	GO:0043167~ion binding
+Ano3	GO:0043168~anion binding
+Ano3	GO:0005216~ion channel activity
+Ano3	GO:0046872~metal ion binding
+Ano3	GO:0008509~anion transmembrane transporter activity
+Ano3	GO:0022838~substrate specific channel activity
+Ano3	GO:0031404~chloride ion binding
+Ano3	GO:0015267~channel activity
+Ano3	GO:0043169~cation binding
+Ano3	GO:0005509~calcium ion binding
+Ano3	GO:0022803~passive transmembrane transporter activity
+Ano3	GO:0005253~anion channel activity
+Csdc2	GO:0003723~RNA binding
+Csdc2	GO:0003677~DNA binding
+Ly6g6e	GO:0004672~protein kinase activity
+Ly6g6e	GO:0005024~transforming growth factor beta receptor activity
+Ly6g6e	GO:0004674~protein serine/threonine kinase activity
+Ly6g6e	GO:0004675~transmembrane receptor protein serine/threonine kinase activity
+Lcorl	GO:0030528~transcription regulator activity
+Lcorl	GO:0003702~RNA polymerase II transcription factor activity
+Lcorl	GO:0003677~DNA binding
+Arhgap20	GO:0005096~GTPase activator activity
+Arhgap20	GO:0008047~enzyme activator activity
+Arhgap20	GO:0030695~GTPase regulator activity
+Arhgap20	GO:0060589~nucleoside-triphosphatase regulator activity
+Cep70	NA
+Slc5a5	GO:0043167~ion binding
+Slc5a5	GO:0043169~cation binding
+Slc5a5	GO:0008507~sodium:iodide symporter activity
+Slc5a5	GO:0015294~solute:cation symporter activity
+Slc5a5	GO:0046872~metal ion binding
+Slc5a5	GO:0031402~sodium ion binding
+Slc5a5	GO:0031420~alkali metal ion binding
+Slc5a5	GO:0008509~anion transmembrane transporter activity
+Slc5a5	GO:0015296~anion:cation symporter activity
+Slc5a5	GO:0015293~symporter activity
+Slc5a5	GO:0015373~monovalent anion:sodium symporter activity
+Slc5a5	GO:0015370~solute:sodium symporter activity
+Uvrag	GO:0019904~protein domain specific binding
+Uvrag	GO:0017124~SH3 domain binding
+Mlec	GO:0030246~carbohydrate binding
+Rltpr	NA
+Ccdc37	NA
+Mysm1	GO:0030528~transcription regulator activity
+Mysm1	GO:0003713~transcription coactivator activity
+Mysm1	GO:0004221~ubiquitin thiolesterase activity
+Mysm1	GO:0016790~thiolester hydrolase activity
+Mysm1	GO:0016563~transcription activator activity
+Mysm1	GO:0043167~ion binding
+Mysm1	GO:0008234~cysteine-type peptidase activity
+Mysm1	GO:0070011~peptidase activity, acting on L-amino acid peptides
+Mysm1	GO:0008134~transcription factor binding
+Mysm1	GO:0003712~transcription cofactor activity
+Mysm1	GO:0003677~DNA binding
+Mysm1	GO:0043169~cation binding
+Mysm1	GO:0046872~metal ion binding
+Mysm1	GO:0008233~peptidase activity
+Mysm1	GO:0046914~transition metal ion binding
+Mysm1	GO:0008270~zinc ion binding
+Mysm1	GO:0019783~small conjugating protein-specific protease activity
+Mysm1	GO:0042393~histone binding
+Mysm1	GO:0008237~metallopeptidase activity
+Mysm1	GO:0004843~ubiquitin-specific protease activity
+Slc9a3r2	NA
+0610010F05Rik	NA
+Jph1	GO:0005198~structural molecule activity
+Jph1	GO:0008307~structural constituent of muscle
+Hk1	GO:0017076~purine nucleotide binding
+Hk1	GO:0000166~nucleotide binding
+Hk1	GO:0019200~carbohydrate kinase activity
+Hk1	GO:0001882~nucleoside binding
+Hk1	GO:0030554~adenyl nucleotide binding
+Hk1	GO:0005524~ATP binding
+Hk1	GO:0004396~hexokinase activity
+Hk1	GO:0032559~adenyl ribonucleotide binding
+Hk1	GO:0032553~ribonucleotide binding
+Hk1	GO:0001883~purine nucleoside binding
+Hk1	GO:0032555~purine ribonucleotide binding
+Calb2	GO:0043169~cation binding
+Calb2	GO:0005509~calcium ion binding
+Calb2	GO:0043167~ion binding
+Calb2	GO:0046872~metal ion binding
+Dedd2	GO:0003677~DNA binding
+Gorab	NA
+Chst12	GO:0016782~transferase activity, transferring sulfur-containing groups
+Chst12	GO:0008146~sulfotransferase activity
+Chst12	GO:0047756~chondroitin 4-sulfotransferase activity
+Chst12	GO:0034481~chondroitin sulfotransferase activity
+B2 h	NA
+Eif4a1	GO:0008135~translation factor activity, nucleic acid binding
+Eif4a1	GO:0030554~adenyl nucleotide binding
+Eif4a1	GO:0042623~ATPase activity, coupled
+Eif4a1	GO:0003743~translation initiation factor activity
+Eif4a1	GO:0003723~RNA binding
+Eif4a1	GO:0016887~ATPase activity
+Eif4a1	GO:0017076~purine nucleotide binding
+Eif4a1	GO:0001883~purine nucleoside binding
+Eif4a1	GO:0070035~purine NTP-dependent helicase activity
+Eif4a1	GO:0004386~helicase activity
+Eif4a1	GO:0000166~nucleotide binding
+Eif4a1	GO:0001882~nucleoside binding
+Eif4a1	GO:0005524~ATP binding
+Eif4a1	GO:0032559~adenyl ribonucleotide binding
+Eif4a1	GO:0032555~purine ribonucleotide binding
+Eif4a1	GO:0032553~ribonucleotide binding
+Eif4a1	GO:0008026~ATP-dependent helicase activity
+Krcc1	NA
+Ociad1	NA
+Ly6h	NA
+Rsrp1	NA
+Psap	NA
+Nr4a2	GO:0046982~protein heterodimerization activity
+Nr4a2	GO:0043565~sequence-specific DNA binding
+Nr4a2	GO:0043169~cation binding
+Nr4a2	GO:0043167~ion binding
+Nr4a2	GO:0003700~transcription factor activity
+Nr4a2	GO:0030528~transcription regulator activity
+Nr4a2	GO:0008270~zinc ion binding
+Nr4a2	GO:0003677~DNA binding
+Nr4a2	GO:0046914~transition metal ion binding
+Nr4a2	GO:0004879~ligand-dependent nuclear receptor activity
+Nr4a2	GO:0046872~metal ion binding
+Nr4a2	GO:0016563~transcription activator activity
+Nr4a2	GO:0003707~steroid hormone receptor activity
+Nr4a2	GO:0046983~protein dimerization activity
+Rtn4	NA
+Snhg11	NA
+Arl6ip5	NA
+Laptm4a	NA
+Ufd1l	NA
+Nr4a1	GO:0043169~cation binding
+Nr4a1	GO:0004879~ligand-dependent nuclear receptor activity
+Nr4a1	GO:0030528~transcription regulator activity
+Nr4a1	GO:0043167~ion binding
+Nr4a1	GO:0046983~protein dimerization activity
+Nr4a1	GO:0003707~steroid hormone receptor activity
+Nr4a1	GO:0046872~metal ion binding
+Nr4a1	GO:0003677~DNA binding
+Nr4a1	GO:0042803~protein homodimerization activity
+Nr4a1	GO:0003700~transcription factor activity
+Nr4a1	GO:0046982~protein heterodimerization activity
+Nr4a1	GO:0042802~identical protein binding
+Nr4a1	GO:0043565~sequence-specific DNA binding
+Nr4a1	GO:0046914~transition metal ion binding
+Nr4a1	GO:0016563~transcription activator activity
+Nr4a1	GO:0008270~zinc ion binding
+Gm27300,Meg3,Mir1906-1,Mir770	NA
+Got2	GO:0016769~transferase activity, transferring nitrogenous groups
+Got2	GO:0048037~cofactor binding
+Got2	GO:0070279~vitamin B6 binding
+Got2	GO:0008483~transaminase activity
+Got2	GO:0004069~L-aspartate:2-oxoglutarate aminotransferase activity
+Got2	GO:0030170~pyridoxal phosphate binding
+Got2	GO:0019842~vitamin binding
+Egr1	GO:0003677~DNA binding
+Egr1	GO:0008270~zinc ion binding
+Egr1	GO:0046914~transition metal ion binding
+Egr1	GO:0046872~metal ion binding
+Egr1	GO:0016563~transcription activator activity
+Egr1	GO:0043167~ion binding
+Egr1	GO:0043169~cation binding
+Egr1	GO:0030528~transcription regulator activity
+Egr1	GO:0003700~transcription factor activity
+Cap2	GO:0003779~actin binding
+Cap2	GO:0008092~cytoskeletal protein binding
+Huwe1	GO:0004842~ubiquitin-protein ligase activity
+Huwe1	GO:0003677~DNA binding
+Huwe1	GO:0016879~ligase activity, forming carbon-nitrogen bonds
+Huwe1	GO:0016881~acid-amino acid ligase activity
+Huwe1	GO:0019787~small conjugating protein ligase activity
+Arc	GO:0008092~cytoskeletal protein binding
+Arc	GO:0003779~actin binding
+Rasd1	GO:0032561~guanyl ribonucleotide binding
+Rasd1	GO:0032555~purine ribonucleotide binding
+Rasd1	GO:0000166~nucleotide binding
+Rasd1	GO:0019001~guanyl nucleotide binding
+Rasd1	GO:0032553~ribonucleotide binding
+Rasd1	GO:0017076~purine nucleotide binding
+Rasd1	GO:0005525~GTP binding
+Gprc5d,Hebp1	NA
+Lasp1	GO:0008092~cytoskeletal protein binding
+Lasp1	GO:0046914~transition metal ion binding
+Lasp1	GO:0008270~zinc ion binding
+Lasp1	GO:0046872~metal ion binding
+Lasp1	GO:0051015~actin filament binding
+Lasp1	GO:0003779~actin binding
+Lasp1	GO:0043169~cation binding
+Lasp1	GO:0043167~ion binding
+Dusp6	GO:0016791~phosphatase activity
+Dusp6	GO:0033549~MAP kinase phosphatase activity
+Dusp6	GO:0008138~protein tyrosine/serine/threonine phosphatase activity
+Dusp6	GO:0004725~protein tyrosine phosphatase activity
+Dusp6	GO:0017017~MAP kinase tyrosine/serine/threonine phosphatase activity
+Dusp6	GO:0004721~phosphoprotein phosphatase activity
+Dnajb5	GO:0031072~heat shock protein binding
+Dnajb5	GO:0051082~unfolded protein binding
+D10Jhu81e	NA
+Fos	GO:0030528~transcription regulator activity
+Fos	GO:0046983~protein dimerization activity
+Fos	GO:0046982~protein heterodimerization activity
+Fos	GO:0043566~structure-specific DNA binding
+Fos	GO:0003677~DNA binding
+Fos	GO:0003700~transcription factor activity
+Fos	GO:0043565~sequence-specific DNA binding
+Fos	GO:0003690~double-stranded DNA binding
+Ctps2	GO:0016879~ligase activity, forming carbon-nitrogen bonds
+Ctps2	GO:0001883~purine nucleoside binding
+Ctps2	GO:0032555~purine ribonucleotide binding
+Ctps2	GO:0003883~CTP synthase activity
+Ctps2	GO:0000166~nucleotide binding
+Ctps2	GO:0005524~ATP binding
+Ctps2	GO:0032553~ribonucleotide binding
+Ctps2	GO:0030554~adenyl nucleotide binding
+Ctps2	GO:0001882~nucleoside binding
+Ctps2	GO:0032559~adenyl ribonucleotide binding
+Ctps2	GO:0017076~purine nucleotide binding
+BC029722	NA
+Serpini1	GO:0004857~enzyme inhibitor activity
+Serpini1	GO:0004866~endopeptidase inhibitor activity
+Serpini1	GO:0004867~serine-type endopeptidase inhibitor activity
+Serpini1	GO:0030414~peptidase inhibitor activity
+Egr4	GO:0043169~cation binding
+Egr4	GO:0003677~DNA binding
+Egr4	GO:0046914~transition metal ion binding
+Egr4	GO:0008270~zinc ion binding
+Egr4	GO:0046872~metal ion binding
+Egr4	GO:0043167~ion binding
+Rhoa	GO:0032561~guanyl ribonucleotide binding
+Rhoa	GO:0005525~GTP binding
+Rhoa	GO:0019001~guanyl nucleotide binding
+Rhoa	GO:0003924~GTPase activity
+Rhoa	GO:0017076~purine nucleotide binding
+Rhoa	GO:0000166~nucleotide binding
+Rhoa	GO:0032553~ribonucleotide binding
+Rhoa	GO:0032555~purine ribonucleotide binding
+Akt1s1	NA
+Cacnb4	GO:0005261~cation channel activity
+Cacnb4	GO:0015267~channel activity
+Cacnb4	GO:0005509~calcium ion binding
+Cacnb4	GO:0005245~voltage-gated calcium channel activity
+Cacnb4	GO:0022803~passive transmembrane transporter activity
+Cacnb4	GO:0022843~voltage-gated cation channel activity
+Cacnb4	GO:0022838~substrate specific channel activity
+Cacnb4	GO:0046873~metal ion transmembrane transporter activity
+Cacnb4	GO:0046872~metal ion binding
+Cacnb4	GO:0022836~gated channel activity
+Cacnb4	GO:0043169~cation binding
+Cacnb4	GO:0022832~voltage-gated channel activity
+Cacnb4	GO:0008331~high voltage-gated calcium channel activity
+Cacnb4	GO:0005244~voltage-gated ion channel activity
+Cacnb4	GO:0043167~ion binding
+Cacnb4	GO:0005216~ion channel activity
+Cacnb4	GO:0005262~calcium channel activity
+Gabra2	GO:0042165~neurotransmitter binding
+Gabra2	GO:0022803~passive transmembrane transporter activity
+Gabra2	GO:0030594~neurotransmitter receptor activity
+Gabra2	GO:0031404~chloride ion binding
+Gabra2	GO:0043167~ion binding
+Gabra2	GO:0022838~substrate specific channel activity
+Gabra2	GO:0015276~ligand-gated ion channel activity
+Gabra2	GO:0008509~anion transmembrane transporter activity
+Gabra2	GO:0022836~gated channel activity
+Gabra2	GO:0022834~ligand-gated channel activity
+Gabra2	GO:0004890~GABA-A receptor activity
+Gabra2	GO:0005254~chloride channel activity
+Gabra2	GO:0016917~GABA receptor activity
+Gabra2	GO:0005216~ion channel activity
+Gabra2	GO:0015267~channel activity
+Gabra2	GO:0005253~anion channel activity
+Gabra2	GO:0005230~extracellular ligand-gated ion channel activity
+Gabra2	GO:0043168~anion binding
+Tmem198	NA
+Ube2s	GO:0032555~purine ribonucleotide binding
+Ube2s	GO:0032559~adenyl ribonucleotide binding
+Ube2s	GO:0019787~small conjugating protein ligase activity
+Ube2s	GO:0032553~ribonucleotide binding
+Ube2s	GO:0001882~nucleoside binding
+Ube2s	GO:0001883~purine nucleoside binding
+Ube2s	GO:0016881~acid-amino acid ligase activity
+Ube2s	GO:0016879~ligase activity, forming carbon-nitrogen bonds
+Ube2s	GO:0017076~purine nucleotide binding
+Ube2s	GO:0004842~ubiquitin-protein ligase activity
+Ube2s	GO:0000166~nucleotide binding
+Ube2s	GO:0005524~ATP binding
+Ube2s	GO:0030554~adenyl nucleotide binding
+Clk1	GO:0032559~adenyl ribonucleotide binding
+Clk1	GO:0005524~ATP binding
+Clk1	GO:0030554~adenyl nucleotide binding
+Clk1	GO:0004672~protein kinase activity
+Clk1	GO:0004674~protein serine/threonine kinase activity
+Clk1	GO:0004713~protein tyrosine kinase activity
+Clk1	GO:0032555~purine ribonucleotide binding
+Clk1	GO:0032553~ribonucleotide binding
+Clk1	GO:0001882~nucleoside binding
+Clk1	GO:0000166~nucleotide binding
+Clk1	GO:0017076~purine nucleotide binding
+Clk1	GO:0001883~purine nucleoside binding
+Vamp1	NA
+Prmt1	GO:0035242~protein-arginine omega-N asymmetric methyltransferase activity
+Prmt1	GO:0016274~protein-arginine N-methyltransferase activity
+Prmt1	GO:0042054~histone methyltransferase activity
+Prmt1	GO:0016275~[cytochrome c]-arginine N-methyltransferase activity
+Prmt1	GO:0016273~arginine N-methyltransferase activity
+Prmt1	GO:0008276~protein methyltransferase activity
+Prmt1	GO:0008469~histone-arginine N-methyltransferase activity
+Prmt1	GO:0008170~N-methyltransferase activity
+Prmt1	GO:0035241~protein-arginine omega-N monomethyltransferase activity
+Eif2s3y	GO:0032553~ribonucleotide binding
+Eif2s3y	GO:0017076~purine nucleotide binding
+Eif2s3y	GO:0019001~guanyl nucleotide binding
+Eif2s3y	GO:0032555~purine ribonucleotide binding
+Eif2s3y	GO:0005525~GTP binding
+Eif2s3y	GO:0000166~nucleotide binding
+Eif2s3y	GO:0003924~GTPase activity
+Eif2s3y	GO:0032561~guanyl ribonucleotide binding
+Eif2s3y	GO:0003743~translation initiation factor activity
+Eif2s3y	GO:0008135~translation factor activity, nucleic acid binding
+Tmem181b-ps	NA
+Coro2b	GO:0003779~actin binding
+Coro2b	GO:0008092~cytoskeletal protein binding
+E2f3	GO:0030528~transcription regulator activity
+E2f3	GO:0003700~transcription factor activity
+E2f3	GO:0016563~transcription activator activity
+E2f3	GO:0003677~DNA binding
+Slc18b1	NA
+Gadd45b	NA
+Tra2a	GO:0000166~nucleotide binding
+Tra2a	GO:0042802~identical protein binding
+Tra2a	GO:0003723~RNA binding
+Ogt	GO:0008080~N-acetyltransferase activity
+Ogt	GO:0016262~protein N-acetylglucosaminyltransferase activity
+Ogt	GO:0008375~acetylglucosaminyltransferase activity
+Ogt	GO:0016410~N-acyltransferase activity
+Ogt	GO:0016407~acetyltransferase activity
+Grasp	NA
+Rac3	GO:0017076~purine nucleotide binding
+Rac3	GO:0000166~nucleotide binding
+Rac3	GO:0032555~purine ribonucleotide binding
+Rac3	GO:0005525~GTP binding
+Rac3	GO:0019001~guanyl nucleotide binding
+Rac3	GO:0032561~guanyl ribonucleotide binding
+Rac3	GO:0032553~ribonucleotide binding
+Rac3	GO:0003924~GTPase activity
+Stk32c	GO:0004672~protein kinase activity
+Stk32c	GO:0032559~adenyl ribonucleotide binding
+Stk32c	GO:0032555~purine ribonucleotide binding
+Stk32c	GO:0001883~purine nucleoside binding
+Stk32c	GO:0005524~ATP binding
+Stk32c	GO:0001882~nucleoside binding
+Stk32c	GO:0030554~adenyl nucleotide binding
+Stk32c	GO:0000287~magnesium ion binding
+Stk32c	GO:0046872~metal ion binding
+Stk32c	GO:0017076~purine nucleotide binding
+Stk32c	GO:0000166~nucleotide binding
+Stk32c	GO:0032553~ribonucleotide binding
+Stk32c	GO:0004674~protein serine/threonine kinase activity
+Stk32c	GO:0043169~cation binding
+Stk32c	GO:0043167~ion binding
+9530059O14Rik,Mir138-1	NA
+Kbtbd2	NA
+Errfi1	NA
+Ccnl2	NA
+Rtn4rl2	NA
+Dyrk3	GO:0017076~purine nucleotide binding
+Dyrk3	GO:0004672~protein kinase activity
+Dyrk3	GO:0000287~magnesium ion binding
+Dyrk3	GO:0001882~nucleoside binding
+Dyrk3	GO:0004713~protein tyrosine kinase activity
+Dyrk3	GO:0046872~metal ion binding
+Dyrk3	GO:0005524~ATP binding
+Dyrk3	GO:0043169~cation binding
+Dyrk3	GO:0001883~purine nucleoside binding
+Dyrk3	GO:0004674~protein serine/threonine kinase activity
+Dyrk3	GO:0032553~ribonucleotide binding
+Dyrk3	GO:0043167~ion binding
+Dyrk3	GO:0032555~purine ribonucleotide binding
+Dyrk3	GO:0000166~nucleotide binding
+Dyrk3	GO:0032559~adenyl ribonucleotide binding
+Dyrk3	GO:0030554~adenyl nucleotide binding
+Fus	GO:0016563~transcription activator activity
+Fus	GO:0003677~DNA binding
+Fus	GO:0000166~nucleotide binding
+Fus	GO:0003723~RNA binding
+Fus	GO:0046872~metal ion binding
+Fus	GO:0030528~transcription regulator activity
+Fus	GO:0046914~transition metal ion binding
+Fus	GO:0008270~zinc ion binding
+Fus	GO:0043169~cation binding
+Fus	GO:0043167~ion binding
+Chtf8	GO:0003677~DNA binding
+B4 h	NA
+Urod	GO:0004853~uroporphyrinogen decarboxylase activity
+Urod	GO:0016831~carboxy-lyase activity
+Ttr	GO:0042562~hormone binding
+Ttr	GO:0015349~thyroid hormone transmembrane transporter activity
+Ttr	GO:0005179~hormone activity
+Mrm1	GO:0008173~RNA methyltransferase activity
+Mrm1	GO:0003723~RNA binding
+Nrd1	GO:0043167~ion binding
+Nrd1	GO:0046914~transition metal ion binding
+Nrd1	GO:0008270~zinc ion binding
+Nrd1	GO:0008237~metallopeptidase activity
+Nrd1	GO:0008233~peptidase activity
+Nrd1	GO:0046872~metal ion binding
+Nrd1	GO:0004222~metalloendopeptidase activity
+Nrd1	GO:0043169~cation binding
+Nrd1	GO:0070011~peptidase activity, acting on L-amino acid peptides
+Nrd1	GO:0004175~endopeptidase activity
+Phf3	GO:0046914~transition metal ion binding
+Phf3	GO:0008270~zinc ion binding
+Phf3	GO:0043169~cation binding
+Phf3	GO:0043167~ion binding
+Phf3	GO:0046872~metal ion binding
+2610015P09Rik	NA
+Lats2,Xpo4	NA
+Slc1a2	GO:0005275~amine transmembrane transporter activity
+Slc1a2	GO:0005343~organic acid:sodium symporter activity
+Slc1a2	GO:0015171~amino acid transmembrane transporter activity
+Slc1a2	GO:0005310~dicarboxylic acid transmembrane transporter activity
+Slc1a2	GO:0015294~solute:cation symporter activity
+Slc1a2	GO:0015293~symporter activity
+Slc1a2	GO:0015501~glutamate:sodium symporter activity
+Slc1a2	GO:0015370~solute:sodium symporter activity
+Slc1a2	GO:0017153~sodium:dicarboxylate symporter activity
+Slc1a2	GO:0008509~anion transmembrane transporter activity
+Slc1a2	GO:0015296~anion:cation symporter activity
+Slc1a2	GO:0015172~acidic amino acid transmembrane transporter activity
+Slc1a2	GO:0005283~sodium:amino acid symporter activity
+Slc1a2	GO:0015179~L-amino acid transmembrane transporter activity
+Slc1a2	GO:0005313~L-glutamate transmembrane transporter activity
+Slc1a2	GO:0005416~cation:amino acid symporter activity
+Folr1	GO:0051183~vitamin transporter activity
+Folr1	GO:0019842~vitamin binding
+Folr1	GO:0051184~cofactor transporter activity
+Folr1	GO:0005542~folic acid binding
+Folr1	GO:0031406~carboxylic acid binding
+Folr1	GO:0016597~amino acid binding
+Folr1	GO:0043176~amine binding
+Folr1	GO:0008517~folic acid transporter activity
+Arntl2	GO:0003677~DNA binding
+Arntl2	GO:0030528~transcription regulator activity
+Arntl2	GO:0003700~transcription factor activity
+B6 h	NA
+Rpl12	GO:0003735~structural constituent of ribosome
+Rpl12	GO:0005198~structural molecule activity
+Rpl12	GO:0003723~RNA binding
+Rpl10	GO:0003735~structural constituent of ribosome
+Rpl10	GO:0005198~structural molecule activity
+Snhg7,Snora17,Snora43	NA
+Setd3	NA
+Eif4g2	GO:0003743~translation initiation factor activity
+Eif4g2	GO:0008135~translation factor activity, nucleic acid binding
+Gbas	NA
+Rcc1	GO:0005085~guanyl-nucleotide exchange factor activity
+Rcc1	GO:0005083~small GTPase regulator activity
+Rcc1	GO:0005087~Ran guanyl-nucleotide exchange factor activity
+Rcc1	GO:0060589~nucleoside-triphosphatase regulator activity
+Rcc1	GO:0030695~GTPase regulator activity
+Rcc1	GO:0005088~Ras guanyl-nucleotide exchange factor activity
+Agtrap	GO:0001595~angiotensin receptor activity
+Agtrap	GO:0001653~peptide receptor activity
+Agtrap	GO:0008528~peptide receptor activity, G-protein coupled
+Agtrap	GO:0042277~peptide binding
+Pgap2	GO:0008565~protein transporter activity
+B1,2 h	NA
+Nr4a2	GO:0046982~protein heterodimerization activity
+Nr4a2	GO:0043565~sequence-specific DNA binding
+Nr4a2	GO:0043169~cation binding
+Nr4a2	GO:0043167~ion binding
+Nr4a2	GO:0003700~transcription factor activity
+Nr4a2	GO:0030528~transcription regulator activity
+Nr4a2	GO:0008270~zinc ion binding
+Nr4a2	GO:0003677~DNA binding
+Nr4a2	GO:0046914~transition metal ion binding
+Nr4a2	GO:0004879~ligand-dependent nuclear receptor activity
+Nr4a2	GO:0046872~metal ion binding
+Nr4a2	GO:0016563~transcription activator activity
+Nr4a2	GO:0003707~steroid hormone receptor activity
+Nr4a2	GO:0046983~protein dimerization activity
+Stmn4	NA
+Tmed9	NA
+Aes	GO:0008134~transcription factor binding
+Aes	GO:0003714~transcription corepressor activity
+Aes	GO:0016564~transcription repressor activity
+Aes	GO:0030528~transcription regulator activity
+Aes	GO:0003712~transcription cofactor activity
+Junb	GO:0003677~DNA binding
+Junb	GO:0046983~protein dimerization activity
+Junb	GO:0043565~sequence-specific DNA binding
+Junb	GO:0003700~transcription factor activity
+Junb	GO:0030528~transcription regulator activity
+Nr4a1	GO:0043169~cation binding
+Nr4a1	GO:0004879~ligand-dependent nuclear receptor activity
+Nr4a1	GO:0030528~transcription regulator activity
+Nr4a1	GO:0043167~ion binding
+Nr4a1	GO:0046983~protein dimerization activity
+Nr4a1	GO:0003707~steroid hormone receptor activity
+Nr4a1	GO:0046872~metal ion binding
+Nr4a1	GO:0003677~DNA binding
+Nr4a1	GO:0042803~protein homodimerization activity
+Nr4a1	GO:0003700~transcription factor activity
+Nr4a1	GO:0046982~protein heterodimerization activity
+Nr4a1	GO:0042802~identical protein binding
+Nr4a1	GO:0043565~sequence-specific DNA binding
+Nr4a1	GO:0046914~transition metal ion binding
+Nr4a1	GO:0016563~transcription activator activity
+Nr4a1	GO:0008270~zinc ion binding
+Arc	GO:0008092~cytoskeletal protein binding
+Arc	GO:0003779~actin binding
+Bdh1	GO:0003858~3-hydroxybutyrate dehydrogenase activity
+Fbxw2	NA
+Fos	GO:0030528~transcription regulator activity
+Fos	GO:0046983~protein dimerization activity
+Fos	GO:0046982~protein heterodimerization activity
+Fos	GO:0043566~structure-specific DNA binding
+Fos	GO:0003677~DNA binding
+Fos	GO:0003700~transcription factor activity
+Fos	GO:0043565~sequence-specific DNA binding
+Fos	GO:0003690~double-stranded DNA binding
+Gpcpd1	GO:0008081~phosphoric diester hydrolase activity
+Gpcpd1	GO:0030246~carbohydrate binding
+Gpcpd1	GO:0008889~glycerophosphodiester phosphodiesterase activity
+Ormdl3	NA
+1500009C09Rik	NA
+Dusp1	GO:0004725~protein tyrosine phosphatase activity
+Dusp1	GO:0033549~MAP kinase phosphatase activity
+Dusp1	GO:0017017~MAP kinase tyrosine/serine/threonine phosphatase activity
+Dusp1	GO:0008138~protein tyrosine/serine/threonine phosphatase activity
+Dusp1	GO:0016791~phosphatase activity
+Dusp1	GO:0004721~phosphoprotein phosphatase activity
+B1,4 h	NA
+Snhg12,Snora16a,Snora44,Snora61,Snord99	NA
+Zfp771	GO:0046914~transition metal ion binding
+Zfp771	GO:0043167~ion binding
+Zfp771	GO:0043169~cation binding
+Zfp771	GO:0046872~metal ion binding
+Zfp771	GO:0003677~DNA binding
+Zfp771	GO:0008270~zinc ion binding
+B1,6 h	NA
+Gm5526	NA
+Ccdc167	NA
+Pgap2	GO:0008565~protein transporter activity
+Ppp1r14a	GO:0004864~phosphoprotein phosphatase inhibitor activity
+Ppp1r14a	GO:0019212~phosphatase inhibitor activity
+Ppp1r14a	GO:0004857~enzyme inhibitor activity
+Ppp1r14a	GO:0019888~protein phosphatase regulator activity
+Ppp1r14a	GO:0019208~phosphatase regulator activity
+B2,4 h	NA
+Ttr	GO:0042562~hormone binding
+Ttr	GO:0015349~thyroid hormone transmembrane transporter activity
+Ttr	GO:0005179~hormone activity
+Gm20715,Olfr1344,Smim17,Zfp28	NA
+Ctps2	GO:0016879~ligase activity, forming carbon-nitrogen bonds
+Ctps2	GO:0001883~purine nucleoside binding
+Ctps2	GO:0032555~purine ribonucleotide binding
+Ctps2	GO:0003883~CTP synthase activity
+Ctps2	GO:0000166~nucleotide binding
+Ctps2	GO:0005524~ATP binding
+Ctps2	GO:0032553~ribonucleotide binding
+Ctps2	GO:0030554~adenyl nucleotide binding
+Ctps2	GO:0001882~nucleoside binding
+Ctps2	GO:0032559~adenyl ribonucleotide binding
+Ctps2	GO:0017076~purine nucleotide binding
+Tbc1d17	GO:0005097~Rab GTPase activator activity
+Tbc1d17	GO:0030695~GTPase regulator activity
+Tbc1d17	GO:0005083~small GTPase regulator activity
+Tbc1d17	GO:0008047~enzyme activator activity
+Tbc1d17	GO:0060589~nucleoside-triphosphatase regulator activity
+Tbc1d17	GO:0005096~GTPase activator activity
+Tbc1d17	GO:0005099~Ras GTPase activator activity
+Akt1s1	NA
+Cotl1	GO:0003779~actin binding
+Cotl1	GO:0019899~enzyme binding
+Cotl1	GO:0008092~cytoskeletal protein binding
+Cap1	GO:0003779~actin binding
+Cap1	GO:0008092~cytoskeletal protein binding
+Enpp2	GO:0043169~cation binding
+Enpp2	GO:0046872~metal ion binding
+Enpp2	GO:0004518~nuclease activity
+Enpp2	GO:0004528~phosphodiesterase I activity
+Enpp2	GO:0004551~nucleotide diphosphatase activity
+Enpp2	GO:0005044~scavenger receptor activity
+Enpp2	GO:0004527~exonuclease activity
+Enpp2	GO:0030247~polysaccharide binding
+Enpp2	GO:0043167~ion binding
+Enpp2	GO:0001871~pattern binding
+Enpp2	GO:0030246~carbohydrate binding
+Enpp2	GO:0008081~phosphoric diester hydrolase activity
+Enpp2	GO:0047391~alkylglycerophosphoethanolamine phosphodiesterase activity
+B2,6 h	NA
+Malat1	NA
+Cacnb4	GO:0005261~cation channel activity
+Cacnb4	GO:0015267~channel activity
+Cacnb4	GO:0005509~calcium ion binding
+Cacnb4	GO:0005245~voltage-gated calcium channel activity
+Cacnb4	GO:0022803~passive transmembrane transporter activity
+Cacnb4	GO:0022843~voltage-gated cation channel activity
+Cacnb4	GO:0022838~substrate specific channel activity
+Cacnb4	GO:0046873~metal ion transmembrane transporter activity
+Cacnb4	GO:0046872~metal ion binding
+Cacnb4	GO:0022836~gated channel activity
+Cacnb4	GO:0043169~cation binding
+Cacnb4	GO:0022832~voltage-gated channel activity
+Cacnb4	GO:0008331~high voltage-gated calcium channel activity
+Cacnb4	GO:0005244~voltage-gated ion channel activity
+Cacnb4	GO:0043167~ion binding
+Cacnb4	GO:0005216~ion channel activity
+Cacnb4	GO:0005262~calcium channel activity
+Gm10182	GO:0003677~DNA binding
+B4,6 h	NA
+Urod	GO:0004853~uroporphyrinogen decarboxylase activity
+Urod	GO:0016831~carboxy-lyase activity
+Tpd52l2	NA
+Bola3	NA
+2410006H16Rik	NA
+2610015P09Rik	NA
+Npy	GO:0005179~hormone activity
+Brd2	NA
+Hbb-bs	NA
+RP23-8J15.5	NA
+Hba-a2	GO:0046906~tetrapyrrole binding
+Hba-a2	GO:0020037~heme binding
+Hba-a2	GO:0005506~iron ion binding
+Hba-a2	GO:0046872~metal ion binding
+Hba-a2	GO:0043167~ion binding
+Hba-a2	GO:0043169~cation binding
+Hba-a2	GO:0019825~oxygen binding
+Hba-a2	GO:0046914~transition metal ion binding
+Hba-a2	GO:0005344~oxygen transporter activity
+B1,2,4 h	NA
+Gm14325	GO:0046914~transition metal ion binding
+Gm14325	GO:0043167~ion binding
+Gm14325	GO:0043169~cation binding
+Gm14325	GO:0008270~zinc ion binding
+Gm14325	GO:0046872~metal ion binding
+Xbp1	GO:0046983~protein dimerization activity
+Xbp1	GO:0030528~transcription regulator activity
+Xbp1	GO:0003677~DNA binding
+Xbp1	GO:0043565~sequence-specific DNA binding
+Xbp1	GO:0003700~transcription factor activity
+Dpf2	GO:0046914~transition metal ion binding
+Dpf2	GO:0046872~metal ion binding
+Dpf2	GO:0043167~ion binding
+Dpf2	GO:0008270~zinc ion binding
+Dpf2	GO:0043169~cation binding
+Fscn1	GO:0051015~actin filament binding
+Fscn1	GO:0030674~protein binding, bridging
+Fscn1	GO:0008092~cytoskeletal protein binding
+Fscn1	GO:0003779~actin binding
+Msantd3	NA
+Pex10	GO:0046872~metal ion binding
+Pex10	GO:0046914~transition metal ion binding
+Pex10	GO:0043169~cation binding
+Pex10	GO:0043167~ion binding
+Pex10	GO:0008270~zinc ion binding
+B1,2,6 h	NA
+Ccdc167	NA
+B1,4,6 h	NA
+Rps27	GO:0043169~cation binding
+Rps27	GO:0008270~zinc ion binding
+Rps27	GO:0003735~structural constituent of ribosome
+Rps27	GO:0005198~structural molecule activity
+Rps27	GO:0046872~metal ion binding
+Rps27	GO:0046914~transition metal ion binding
+Rps27	GO:0043167~ion binding
+Ndufs5	NA
+Atp5e	GO:0042623~ATPase activity, coupled
+Atp5e	GO:0046933~hydrogen ion transporting ATP synthase activity, rotational mechanism
+Atp5e	GO:0015078~hydrogen ion transmembrane transporter activity
+Atp5e	GO:0019829~cation-transporting ATPase activity
+Atp5e	GO:0015077~monovalent inorganic cation transmembrane transporter activity
+Atp5e	GO:0042625~ATPase activity, coupled to transmembrane movement of ions
+Atp5e	GO:0008553~hydrogen-exporting ATPase activity, phosphorylative mechanism
+Atp5e	GO:0022890~inorganic cation transmembrane transporter activity
+Atp5e	GO:0016820~hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances
+Atp5e	GO:0043492~ATPase activity, coupled to movement of substances
+Atp5e	GO:0015399~primary active transmembrane transporter activity
+Atp5e	GO:0046961~proton-transporting ATPase activity, rotational mechanism
+Atp5e	GO:0042626~ATPase activity, coupled to transmembrane movement of substances
+Atp5e	GO:0015405~P-P-bond-hydrolysis-driven transmembrane transporter activity
+Atp5e	GO:0016887~ATPase activity
+Atp5e	GO:0015662~ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism
+Fam109b,Smdt1	NA
+Rps27rt	NA
+Kbtbd11	NA
+Cbx5	GO:0003682~chromatin binding
+Cbx5	GO:0030528~transcription regulator activity
+Cbx5	GO:0070491~transcription repressor binding
+Cbx5	GO:0030674~protein binding, bridging
+Cbx5	GO:0016564~transcription repressor activity
+Bola2	NA
+Ccdc107	NA
+1810043H04Rik	NA
+Polr2i	GO:0003899~DNA-directed RNA polymerase activity
+Polr2i	GO:0043169~cation binding
+Polr2i	GO:0043167~ion binding
+Polr2i	GO:0030528~transcription regulator activity
+Polr2i	GO:0003677~DNA binding
+Polr2i	GO:0016779~nucleotidyltransferase activity
+Polr2i	GO:0034062~RNA polymerase activity
+Polr2i	GO:0046914~transition metal ion binding
+Polr2i	GO:0004672~protein kinase activity
+Polr2i	GO:0008270~zinc ion binding
+Polr2i	GO:0046872~metal ion binding
+Gm5526	NA
+1110001J03Rik	NA
+Mrpl34	GO:0003735~structural constituent of ribosome
+Mrpl34	GO:0005198~structural molecule activity
+Rpp21	GO:0016891~endoribonuclease activity, producing 5'-phosphomonoesters
+Rpp21	GO:0004521~endoribonuclease activity
+Rpp21	GO:0004540~ribonuclease activity
+Rpp21	GO:0004549~tRNA-specific ribonuclease activity
+Rpp21	GO:0004526~ribonuclease P activity
+Rpp21	GO:0004519~endonuclease activity
+Rpp21	GO:0004518~nuclease activity
+Rpp21	GO:0016893~endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters
+Emc9	NA
+Sel1l	NA
+1110038F14Rik	NA
+Capns1	GO:0004175~endopeptidase activity
+Capns1	GO:0004197~cysteine-type endopeptidase activity
+Capns1	GO:0008234~cysteine-type peptidase activity
+Capns1	GO:0043167~ion binding
+Capns1	GO:0070011~peptidase activity, acting on L-amino acid peptides
+Capns1	GO:0008233~peptidase activity
+Capns1	GO:0046872~metal ion binding
+Capns1	GO:0004198~calcium-dependent cysteine-type endopeptidase activity
+Capns1	GO:0043169~cation binding
+Capns1	GO:0005509~calcium ion binding
+Orc2	NA
+Ndufaf6	NA
+Wdr75	NA
+Coa7	NA
+Rrm2b	GO:0005506~iron ion binding
+Rrm2b	GO:0016725~oxidoreductase activity, acting on CH or CH2 groups
+Rrm2b	GO:0046872~metal ion binding
+Rrm2b	GO:0004748~ribonucleoside-diphosphate reductase activity
+Rrm2b	GO:0043169~cation binding
+Rrm2b	GO:0016728~oxidoreductase activity, acting on CH or CH2 groups, disulfide as acceptor
+Rrm2b	GO:0046914~transition metal ion binding
+Rrm2b	GO:0043167~ion binding
+Fam183b	NA
+Eea1	GO:0035091~phosphoinositide binding
+Eea1	GO:0005543~phospholipid binding
+Eea1	GO:0008289~lipid binding
+Eea1	GO:0043167~ion binding
+Eea1	GO:0046914~transition metal ion binding
+Eea1	GO:0043169~cation binding
+Eea1	GO:0046872~metal ion binding
+Eea1	GO:0008270~zinc ion binding
+Eea1	GO:0005545~phosphatidylinositol binding
+Ankrd35	NA
+Prrt1	GO:0050785~advanced glycation end-product receptor activity
+1700020I14Rik	NA
+Hist1h1e	GO:0003677~DNA binding
+Tanc1	NA
+Nr2f1	GO:0004879~ligand-dependent nuclear receptor activity
+Nr2f1	GO:0016563~transcription activator activity
+Nr2f1	GO:0043167~ion binding
+Nr2f1	GO:0043565~sequence-specific DNA binding
+Nr2f1	GO:0046914~transition metal ion binding
+Nr2f1	GO:0008270~zinc ion binding
+Nr2f1	GO:0003700~transcription factor activity
+Nr2f1	GO:0003707~steroid hormone receptor activity
+Nr2f1	GO:0046872~metal ion binding
+Nr2f1	GO:0030528~transcription regulator activity
+Nr2f1	GO:0043169~cation binding
+Nr2f1	GO:0003677~DNA binding
+Ccdc136	NA
+Chmp4b	NA
+Eid2	GO:0046332~SMAD binding
+Hnrnpd	GO:0003677~DNA binding
+Hnrnpd	GO:0043565~sequence-specific DNA binding
+Hnrnpd	GO:0003723~RNA binding
+Hnrnpd	GO:0042162~telomeric DNA binding
+Hnrnpd	GO:0000166~nucleotide binding
+Gm14004	NA
+Fbll1	GO:0003723~RNA binding
+Fxyd2	GO:0031420~alkali metal ion binding
+Fxyd2	GO:0043167~ion binding
+Fxyd2	GO:0031402~sodium ion binding
+Fxyd2	GO:0030955~potassium ion binding
+Fxyd2	GO:0015267~channel activity
+Fxyd2	GO:0005216~ion channel activity
+Fxyd2	GO:0043169~cation binding
+Fxyd2	GO:0046872~metal ion binding
+Fxyd2	GO:0022838~substrate specific channel activity
+Fxyd2	GO:0022803~passive transmembrane transporter activity
+Gjb6	NA
+Gm11273	GO:0015077~monovalent inorganic cation transmembrane transporter activity
+Gm11273	GO:0008270~zinc ion binding
+Gm11273	GO:0015002~heme-copper terminal oxidase activity
+Gm11273	GO:0043167~ion binding
+Gm11273	GO:0016676~oxidoreductase activity, acting on heme group of donors, oxygen as acceptor
+Gm11273	GO:0046872~metal ion binding
+Gm11273	GO:0046914~transition metal ion binding
+Gm11273	GO:0043169~cation binding
+Gm11273	GO:0016675~oxidoreductase activity, acting on heme group of donors
+Gm11273	GO:0004129~cytochrome-c oxidase activity
+Gm11273	GO:0015078~hydrogen ion transmembrane transporter activity
+Gm11273	GO:0022890~inorganic cation transmembrane transporter activity
+Rtn2	NA
+B4galnt4	GO:0008376~acetylgalactosaminyltransferase activity
+B4galnt4	GO:0033842~N-acetyl-beta-glucosaminyl-glycoprotein 4-beta-N-acetylgalactosaminyltransferase activity
+Slc26a4	GO:0008271~secondary active sulfate transmembrane transporter activity
+Slc26a4	GO:0008509~anion transmembrane transporter activity
+Slc26a4	GO:0043167~ion binding
+Slc26a4	GO:0043168~anion binding
+Slc26a4	GO:0031404~chloride ion binding
+Slc26a4	GO:0015116~sulfate transmembrane transporter activity
+Slc26a4	GO:0015103~inorganic anion transmembrane transporter activity
+Mepce	NA
+Gprin1	GO:0051219~phosphoprotein binding
+Dact3	NA
+B2,4,6 h	NA
+Actb	GO:0017076~purine nucleotide binding
+Actb	GO:0001882~nucleoside binding
+Actb	GO:0032559~adenyl ribonucleotide binding
+Actb	GO:0000166~nucleotide binding
+Actb	GO:0001883~purine nucleoside binding
+Actb	GO:0032555~purine ribonucleotide binding
+Actb	GO:0032553~ribonucleotide binding
+Actb	GO:0030554~adenyl nucleotide binding
+Actb	GO:0005524~ATP binding
+Gapdh	GO:0048037~cofactor binding
+Gapdh	GO:0016620~oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor
+Gapdh	GO:0004365~glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) activity
+Gapdh	GO:0000166~nucleotide binding
+Gapdh	GO:0008943~glyceraldehyde-3-phosphate dehydrogenase activity
+Gapdh	GO:0050662~coenzyme binding
+Gapdh	GO:0051287~NAD or NADH binding
+Atp5g2	GO:0022890~inorganic cation transmembrane transporter activity
+Atp5g2	GO:0015078~hydrogen ion transmembrane transporter activity
+Atp5g2	GO:0008289~lipid binding
+Atp5g2	GO:0015077~monovalent inorganic cation transmembrane transporter activity
+Cmss1	NA
+Psap	NA
+Tubb4b	NA
+Uqcrc2	GO:0004222~metalloendopeptidase activity
+Uqcrc2	GO:0043169~cation binding
+Uqcrc2	GO:0043167~ion binding
+Uqcrc2	GO:0046914~transition metal ion binding
+Uqcrc2	GO:0008233~peptidase activity
+Uqcrc2	GO:0004175~endopeptidase activity
+Uqcrc2	GO:0008270~zinc ion binding
+Uqcrc2	GO:0070011~peptidase activity, acting on L-amino acid peptides
+Uqcrc2	GO:0008237~metallopeptidase activity
+Uqcrc2	GO:0046872~metal ion binding
+Mapt	GO:0008092~cytoskeletal protein binding
+Mapt	GO:0008017~microtubule binding
+Mapt	GO:0015631~tubulin binding
+Prdx1	GO:0016209~antioxidant activity
+Prdx1	GO:0051920~peroxiredoxin activity
+Prdx1	GO:0016684~oxidoreductase activity, acting on peroxide as acceptor
+Prdx1	GO:0004601~peroxidase activity
+Mcts1	GO:0003723~RNA binding
+Tcp1	GO:0051082~unfolded protein binding
+Tcp1	GO:0032559~adenyl ribonucleotide binding
+Tcp1	GO:0005524~ATP binding
+Tcp1	GO:0032555~purine ribonucleotide binding
+Tcp1	GO:0030554~adenyl nucleotide binding
+Tcp1	GO:0001882~nucleoside binding
+Tcp1	GO:0017076~purine nucleotide binding
+Tcp1	GO:0000166~nucleotide binding
+Tcp1	GO:0001883~purine nucleoside binding
+Tcp1	GO:0032553~ribonucleotide binding
+Oxct1	GO:0008260~3-oxoacid CoA-transferase activity
+Oxct1	GO:0008410~CoA-transferase activity
+Oxct1	GO:0016782~transferase activity, transferring sulfur-containing groups
+Taf10	GO:0003677~DNA binding
+Taf10	GO:0030528~transcription regulator activity
+Taf10	GO:0003702~RNA polymerase II transcription factor activity
+Ptgds	GO:0016860~intramolecular oxidoreductase activity
+Ptgds	GO:0005501~retinoid binding
+Ptgds	GO:0008289~lipid binding
+Ptgds	GO:0019840~isoprenoid binding
+Ptgds	GO:0004667~prostaglandin-D synthase activity
+RP23-8J15.1	NA
+Snhg11	NA
+Atp6ap2	NA
+Atp6v1h	GO:0019829~cation-transporting ATPase activity
+Atp6v1h	GO:0015077~monovalent inorganic cation transmembrane transporter activity
+Atp6v1h	GO:0015405~P-P-bond-hydrolysis-driven transmembrane transporter activity
+Atp6v1h	GO:0016820~hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances
+Atp6v1h	GO:0015078~hydrogen ion transmembrane transporter activity
+Atp6v1h	GO:0016887~ATPase activity
+Atp6v1h	GO:0022890~inorganic cation transmembrane transporter activity
+Atp6v1h	GO:0042626~ATPase activity, coupled to transmembrane movement of substances
+Atp6v1h	GO:0046961~proton-transporting ATPase activity, rotational mechanism
+Atp6v1h	GO:0043492~ATPase activity, coupled to movement of substances
+Atp6v1h	GO:0042625~ATPase activity, coupled to transmembrane movement of ions
+Atp6v1h	GO:0015399~primary active transmembrane transporter activity
+Atp6v1h	GO:0042623~ATPase activity, coupled
+Ptges3	GO:0050220~prostaglandin-E synthase activity
+Ptges3	GO:0051082~unfolded protein binding
+Ptges3	GO:0016860~intramolecular oxidoreductase activity
+Rcc1	GO:0005085~guanyl-nucleotide exchange factor activity
+Rcc1	GO:0005083~small GTPase regulator activity
+Rcc1	GO:0005087~Ran guanyl-nucleotide exchange factor activity
+Rcc1	GO:0060589~nucleoside-triphosphatase regulator activity
+Rcc1	GO:0030695~GTPase regulator activity
+Rcc1	GO:0005088~Ras guanyl-nucleotide exchange factor activity
+Srsf2	NA
+Fh1	GO:0016836~hydro-lyase activity
+Fh1	GO:0004333~fumarate hydratase activity
+RP23-8J15.3	NA
+Nceh1	GO:0004091~carboxylesterase activity
+Nceh1	GO:0017171~serine hydrolase activity
+Nceh1	GO:0043167~ion binding
+Nceh1	GO:0043168~anion binding
+Nceh1	GO:0042301~phosphate binding
+Eif3e	GO:0008135~translation factor activity, nucleic acid binding
+Eif3e	GO:0003743~translation initiation factor activity
+Gm17275	NA
+Tmem242	NA
+Rgs2	GO:0030695~GTPase regulator activity
+Rgs2	GO:0005096~GTPase activator activity
+Rgs2	GO:0008047~enzyme activator activity
+Rgs2	GO:0060589~nucleoside-triphosphatase regulator activity
+RP23-8J15.4	NA
+Lasp1	GO:0008092~cytoskeletal protein binding
+Lasp1	GO:0046914~transition metal ion binding
+Lasp1	GO:0008270~zinc ion binding
+Lasp1	GO:0046872~metal ion binding
+Lasp1	GO:0051015~actin filament binding
+Lasp1	GO:0003779~actin binding
+Lasp1	GO:0043169~cation binding
+Lasp1	GO:0043167~ion binding
+Cops3	NA
+Dld	GO:0016667~oxidoreductase activity, acting on sulfur group of donors
+Dld	GO:0016651~oxidoreductase activity, acting on NADH or NADPH
+Dld	GO:0017076~purine nucleotide binding
+Dld	GO:0001883~purine nucleoside binding
+Dld	GO:0000166~nucleotide binding
+Dld	GO:0050662~coenzyme binding
+Dld	GO:0048037~cofactor binding
+Dld	GO:0001882~nucleoside binding
+Dld	GO:0004148~dihydrolipoyl dehydrogenase activity
+Dld	GO:0030554~adenyl nucleotide binding
+Dld	GO:0016668~oxidoreductase activity, acting on sulfur group of donors, NAD or NADP as acceptor
+Dld	GO:0050660~FAD binding
+Dld	GO:0009055~electron carrier activity
+Rpl36a-ps1	NA
+RP23-8J15.2	NA
+Dapk3	GO:0032559~adenyl ribonucleotide binding
+Dapk3	GO:0032553~ribonucleotide binding
+Dapk3	GO:0000166~nucleotide binding
+Dapk3	GO:0005524~ATP binding
+Dapk3	GO:0004674~protein serine/threonine kinase activity
+Dapk3	GO:0001882~nucleoside binding
+Dapk3	GO:0032555~purine ribonucleotide binding
+Dapk3	GO:0001883~purine nucleoside binding
+Dapk3	GO:0004672~protein kinase activity
+Dapk3	GO:0017076~purine nucleotide binding
+Dapk3	GO:0030554~adenyl nucleotide binding
+Syt4	GO:0043169~cation binding
+Syt4	GO:0043167~ion binding
+Syt4	GO:0005509~calcium ion binding
+Syt4	GO:0046872~metal ion binding
+Yipf4	NA
+Mat2a	GO:0030554~adenyl nucleotide binding
+Mat2a	GO:0046914~transition metal ion binding
+Mat2a	GO:0046872~metal ion binding
+Mat2a	GO:0043167~ion binding
+Mat2a	GO:0032553~ribonucleotide binding
+Mat2a	GO:0030955~potassium ion binding
+Mat2a	GO:0031420~alkali metal ion binding
+Mat2a	GO:0032559~adenyl ribonucleotide binding
+Mat2a	GO:0001883~purine nucleoside binding
+Mat2a	GO:0000287~magnesium ion binding
+Mat2a	GO:0032555~purine ribonucleotide binding
+Mat2a	GO:0043169~cation binding
+Mat2a	GO:0001882~nucleoside binding
+Mat2a	GO:0005524~ATP binding
+Mat2a	GO:0050897~cobalt ion binding
+Mat2a	GO:0000166~nucleotide binding
+Mat2a	GO:0017076~purine nucleotide binding
+Mat2a	GO:0004478~methionine adenosyltransferase activity
+Mat2a	GO:0016765~transferase activity, transferring alkyl or aryl (other than methyl) groups
+1110059G10Rik	NA
+Plp1	GO:0005198~structural molecule activity
+Plp1	GO:0019911~structural constituent of myelin sheath
+Btg3	NA
+Cdr1	NA
+Eif2s3y	GO:0032553~ribonucleotide binding
+Eif2s3y	GO:0017076~purine nucleotide binding
+Eif2s3y	GO:0019001~guanyl nucleotide binding
+Eif2s3y	GO:0032555~purine ribonucleotide binding
+Eif2s3y	GO:0005525~GTP binding
+Eif2s3y	GO:0000166~nucleotide binding
+Eif2s3y	GO:0003924~GTPase activity
+Eif2s3y	GO:0032561~guanyl ribonucleotide binding
+Eif2s3y	GO:0003743~translation initiation factor activity
+Eif2s3y	GO:0008135~translation factor activity, nucleic acid binding
+Gabrb2	GO:0005216~ion channel activity
+Gabrb2	GO:0030594~neurotransmitter receptor activity
+Gabrb2	GO:0043167~ion binding
+Gabrb2	GO:0022838~substrate specific channel activity
+Gabrb2	GO:0022834~ligand-gated channel activity
+Gabrb2	GO:0015276~ligand-gated ion channel activity
+Gabrb2	GO:0008509~anion transmembrane transporter activity
+Gabrb2	GO:0022836~gated channel activity
+Gabrb2	GO:0005253~anion channel activity
+Gabrb2	GO:0004890~GABA-A receptor activity
+Gabrb2	GO:0043168~anion binding
+Gabrb2	GO:0042165~neurotransmitter binding
+Gabrb2	GO:0005254~chloride channel activity
+Gabrb2	GO:0022803~passive transmembrane transporter activity
+Gabrb2	GO:0015267~channel activity
+Gabrb2	GO:0016917~GABA receptor activity
+Gabrb2	GO:0005230~extracellular ligand-gated ion channel activity
+Gabrb2	GO:0031404~chloride ion binding
+Kctd12	GO:0005267~potassium channel activity
+Kctd12	GO:0022803~passive transmembrane transporter activity
+Kctd12	GO:0022843~voltage-gated cation channel activity
+Kctd12	GO:0005261~cation channel activity
+Kctd12	GO:0005249~voltage-gated potassium channel activity
+Kctd12	GO:0005216~ion channel activity
+Kctd12	GO:0005244~voltage-gated ion channel activity
+Kctd12	GO:0022836~gated channel activity
+Kctd12	GO:0022832~voltage-gated channel activity
+Kctd12	GO:0022838~substrate specific channel activity
+Kctd12	GO:0046873~metal ion transmembrane transporter activity
+Kctd12	GO:0015267~channel activity
+Sptbn1	NA
+Cstf3	NA
+Hsd17b12	GO:0030247~polysaccharide binding
+Hsd17b12	GO:0001968~fibronectin binding
+Hsd17b12	GO:0033764~steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+Hsd17b12	GO:0016229~steroid dehydrogenase activity
+Hsd17b12	GO:0005539~glycosaminoglycan binding
+Hsd17b12	GO:0005518~collagen binding
+Hsd17b12	GO:0004303~estradiol 17-beta-dehydrogenase activity
+Hsd17b12	GO:0001871~pattern binding
+Hsd17b12	GO:0008201~heparin binding
+Hsd17b12	GO:0030246~carbohydrate binding
+Ndrg2	NA
+Spry2	NA
