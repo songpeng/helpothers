@@ -13,33 +13,18 @@ GOresponse <- read.table(file="GOresponse.txt",head=FALSE,
                          colClasses="character",quote="",sep="\n")
 #-- Main Function
 twolineMatch <- function(array,key2value,filenm){
-
-#    oneitemoneMatch <- function(item,key2valueline,t){
-#        if(grepl(item,key2valueline[1],ignore.case=TRUE)){
-#            cat(paste(c(item,key2valueline),collapse="\t"),file=filenm,
-#                sep="\n",append=TRUE)
-#        }
-#        else if(t<1){
-#            cat(item,file=filenm,sep="\n",append=TRUE)
-#        }
-#    }
-
+    upperKey <- toupper(key2value[,1])
     oneitemMatch <- function(item){
-#       apply(key2value,1,function(x) oneitemoneMatch(item,x))
-        rownum <- nrow(key2value)
-        t <- 0
-        for(i in 1:rownum){
-            if(grepl(item,key2value[i,1],ignore.case = TRUE)){
-                cat(paste(c(item,key2value[i,]),collapse = "\t"),file=filenm,
-                    sep="\n",append=TRUE)
-                t <- 1
-            }
+        tmpindex <- which(upperKey==item)
+        if(length(tmpindex)<1){
+            tmpdata <- data.frame(x1 <- item, x2 <- "NA")
+        }else{
+            tmpdata <- data.frame(x1 <- rep(item,length(tmpindex)),
+                                  x2 <- key2value[tmpindex,2])
         }
-        if(t < 1){
-            cat(paste(c(item,"NA"),collapse = "\t"),file=filenm,
-                sep="\n",append = TRUE)
+        write.table(tmpdata,file=filenm,append=TRUE,quote = FALSE,
+                    sep="\t",row.names = FALSE,col.names = FALSE)
         }
-    }
 
     apply(array,1,function(x) oneitemMatch(x))
 }
