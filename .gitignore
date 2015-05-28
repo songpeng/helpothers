@@ -244,5 +244,3 @@ sympy-plots-for-*.tex/
 #-- Ignore .txt
 *.txt
 
-#-- Ignore .xlsx
-*.xlsx
