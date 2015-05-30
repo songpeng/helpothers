@@ -2,9 +2,11 @@
 # Songpeng Zu
 
 #-- load package.
+#source("http://bioconductor.org/biocLite.R")
+#biocLite("fmcR")
 library(xlsx)
 library(ChemmineR)
-
+library(fmcR)
 #-- load file
 cidsNotSure <- read.xlsx("CompoundsIdentify_150528.xlsx",2,header=FALSE,
                          colIndex = 1)
