@@ -3,7 +3,7 @@
 
 #-- load package.
 #source("http://bioconductor.org/biocLite.R")
-#biocLite("fmcR")
+#biocLite("fmcsR")
 library(xlsx)
 library(ChemmineR)
 library(fmcR)
