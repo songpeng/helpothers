@@ -22,9 +22,15 @@ nncol <- length(compoundsAllOthers)
 
 MCSmat <- matrix(,nrow = nnrow, ncol = nncol)
 
-for(i in 1:nnrow){
+MCScalcByRow <- function(rowindex){
+    tmparray <- 1:nncol
     for(j in 1:nncol){
-        tmp <- fmcs(compoundsNotSure[i],compoundsAllOthers[j])
-        MCSmat[i,j] <- tmp@stats[4]
+        tmp <- fmcs(compoundsNotSure[rowindex],compoundsAllOthers[j])
+        tmparray[j] <- tmp@stats[4]
     }
+    return(tmparray)
+}
+
+for(i in 1:nnrow){
+    MCSmat[i,] <- MCScalcByRow(i)
 }
