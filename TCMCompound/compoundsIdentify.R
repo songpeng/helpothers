@@ -47,3 +47,5 @@ MCScalcByArray <- function(numindex){
                 fast=TRUE)[4])
 }
 resultsBYarray <- lapply(1:totallen,function(x) MCScalcByArray(x))
+
+#use plotMCS to plot the matching results (fmcs without fast parameter).
