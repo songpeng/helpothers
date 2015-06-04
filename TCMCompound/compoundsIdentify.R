@@ -7,6 +7,7 @@
 library(xlsx)
 library(ChemmineR)
 library(fmcsR)
+library(Rcpp)
 #library(parallel)
 #-- load file
 cidsNotSure <- read.xlsx("CompoundsIdentify_150528.xlsx",2,header=FALSE,
@@ -23,29 +24,28 @@ nnrow <- length(compoundsNotSure)
 nncol <- length(compoundsAllOthers)
 
 #MCSmat <- matrix(,nrow = nnrow, ncol = nncol)
-#MCScalcByRow <- function(rowindex){
-#    tmparray <- 1:nncol
-#    for(j in 1:nncol){
-#        tmp <- fmcs(compoundsNotSure[rowindex],compoundsAllOthers[j])
-#        tmparray[j] <- tmp@stats[4]
-#    }
-#    return(tmparray)
-#}
-#MCScalcByEle <- function(rowindex,colindex){
-#    tmp <- fmcs(compoundsNotSure[rowindex],compoundsAllOthers[colindex])
-#    return(tmp@stats[4])
-#}
-#test <- outer(1:nnrow,1:nncol,FUN="MCScalcByEle")
-#test <- mapply(function(r,c) MCScalcByEle(r,c),1:nnrow,1:nncol)
-
-col1 <- rep(1:nnrow,nncol)
-col2 <- rep(1:nncol,nnrow)
-
-totallen <- nnrow*nncol
-MCScalcByArray <- function(numindex){
-    return(fmcs(compoundsNotSure[[col1[i]]],compoundsAllOthers[[col2[i]]],
+MCScalcByEle <- function(rowindex,colindex){
+    return(fmcs(compoundsNotSure[[rowindex]],compoundsAllOthers[[colindex]],
                 fast=TRUE)[4])
 }
-resultsBYarray <- lapply(1:totallen,function(x) MCScalcByArray(x))
+MCScalcByRow <- function(rowindex){
+    return(unlist(lapply(1:nncol,function(x) MCScalcByEle(rowindex,x))))
+}
 
+fileConn <- file("outMCScalc.txt")
+CatResult <- function(rowindex){
+#    cat(paste(MCScalcByRow(rowindex),sep="\n",collapse="\t"),
+#        file=filename,append=TRUE,sep="\n")
+    #It seems to be slower than cat.
+    writeLines(paste(MCScalcByRow(rowindex),collapse="\t"),fileConn)
+}
+close(fileConn)
+
+sourceCpp("MCScalc.cpp")
+
+sink("outMCScalc.txt",append=TRUE)
+#lapply(1:10,function(x) CatResult(x))
+#sink()
 #use plotMCS to plot the matching results (fmcs without fast parameter).
+callFunction(10,CatResult)
+sink()
