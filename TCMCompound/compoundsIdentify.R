@@ -41,7 +41,7 @@ CatResult <- function(rowindex){
 #    writeLines(paste(MCScalcByRow(rowindex),collapse="\t"),fileConn)
 }
 sourceCpp("MCScalc.cpp")
-callFunction(10,CatResult)
+callFunction(nnrow,CatResult)
 #close(fileConn)
 
 #sink("outMCScalc.txt",append=TRUE)
