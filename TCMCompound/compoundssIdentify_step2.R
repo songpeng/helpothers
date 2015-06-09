@@ -23,6 +23,10 @@ MCSmaxscore <- apply(MCSmat,1,max)
 
 #- plot
 # rename the print_cid of these compounds as their cids.
+# A bug: if you set cid(sdfset) <- st
+# The function of cid(sdfset) returns the previous value. But str(sdfset)
+# you would find multi @IDs. And if you cid(sdfset) <- st for more than three
+# times, each time it would create a ID. And, fmcs return error.
 cid(compoundsNotSure) <- sdfid(compoundsNotSure)
 cid(compoundsAllOthers) <- sdfid(compoundsAllOthers)
 
